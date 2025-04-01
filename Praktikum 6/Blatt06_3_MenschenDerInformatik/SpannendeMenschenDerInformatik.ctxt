@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SpannendeMenschenDerInformatik
+comment0.text=\r\n\ Eine\ Zusammenstellung\ von\ Menschen,\ die\ die\ Informatik\ gepr\u00E4gt\ haben.\r\n\ \r\n\ @author\ Fredrik\ Winkler,\ Axel\ Schmolitzky\r\n\ @version\ 2021\r\n
+comment1.params=vergleicher
+comment1.target=void\ schreibeGeordnet(Vergleicher)
+comment1.text=\r\n\ Schreibt\ die\ Menschen\ auf\ die\ Konsole,\ geordnet\ nach\ einem\ Kriterium.\r\n
+comment2.params=vergleicher
+comment2.target=void\ insertionsort(Vergleicher)
+comment2.text=\r\n\ Insertionsort\ ist\ ein\ einfacher,\ aber\ nicht\ besonders\ effizienter\ Sortieralgorithmus.\r\n\ Bitte\ verwendet\ in\ der\ Praxis\ Collections.sort,\ statt\ eigene\ Sortierroutinen\ zu\ schreiben\!\r\n\ Aber\ vielleicht\ interessiert\ ja\ den\ einen\ oder\ anderen\ Studierenden,\r\n\ wie\ man\ ein\ Sortierverfahren\ von\ Hand\ programmieren\ koennte\ \:)\r\n
+comment3.params=j\ vergleicher
+comment3.target=void\ insert(int,\ Vergleicher)
+numComments=4

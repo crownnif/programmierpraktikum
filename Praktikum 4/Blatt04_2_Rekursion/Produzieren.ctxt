@@ -1,0 +1,31 @@
+#BlueJ class context
+comment0.target=Produzieren
+comment0.text=\n\ In\ dieser\ Klasse\ sind\ rekursive\ Algorithmen\ umzusetzen.\n\ \n\ @author\ Fredrik\ Winkler,\ Axel\ Schmolitzky\n\ @version\ 2021\n
+comment1.params=n
+comment1.target=int\ fak(int)
+comment1.text=\n\ Liefert\ die\ Fakultaet\ von\ n,\ also\ das\ Produkt\ aller\ natuerlichen\ Zahlen\ bis\ n.\n\ Die\ Fakultaet\ von\ 0\ ist\ per\ mathematischer\ Definition\ 1.\n\n\ Beispielauswertung\:\n\ \n\ \ \ fak(4)\n\ ->\ 4\ *\ fak(3)\n\ ->\ 4\ *\ (3\ *\ fak(2))\n\ ->\ 4\ *\ (3\ *\ (2\ *\ fak(1)))\n\ ->\ 4\ *\ (3\ *\ (2\ *\ (1\ *\ fak(0))))\n\ ->\ 4\ *\ (3\ *\ (2\ *\ (1\ *\ 1)))\n\ ->\ 4\ *\ (3\ *\ (2\ *\ 1))\n\ ->\ 4\ *\ (3\ *\ 2)\n\ ->\ 4\ *\ 6\n\ ->\ 24\n
+comment10.params=o\ expectedO\ testname
+comment10.target=boolean\ testeMethode(java.lang.Object,\ java.lang.Object,\ java.lang.String)
+comment2.params=n\ m
+comment2.target=int\ modulo(int,\ int)
+comment2.text=\n\ Berechnet\ n\ modulo\ m,\ also\ den\ Rest\ der\ ganzzahligen\ Division\ n/m.\n\ \n\ modulo(14,3)\ ->\ modulo(11,3)\ ->\ modulo(8,3)\ ->\ modulo(5,3)\ ->\ modulo(2,3)\ ->\ 2\n\ \n\ @param\ n\ ein\ beliebiger\ Wert\ >\=\ 0\n\ @param\ m\ ein\ beliebiger\ Wert\ >\ 0\n
+comment3.params=s
+comment3.target=boolean\ enthaeltVokal(java.lang.String)
+comment3.text=\n\ Gibt\ an,\ ob\ die\ Zeichenkette\ einen\ Vokal\ enthaelt.\ Auswertungen\:\n\ \n\ enthaeltVokal("brei")\ ->\ enthaeltVokal("rei")\ ->\ enthaeltVokal("ei")\ ->\ true\n\ enthaeltVokal("xyz")\ ->\ enthaeltVokal("yz")\ ->\ enthaeltVokal("z")\ ->\ enthaeltVokal("")\ ->\ false\n\ @param\ s\ ein\ beliebiger\ String\ ungleich\ null\n
+comment4.params=s
+comment4.target=boolean\ istPalindrom(java.lang.String)
+comment4.text=\n\ Gibt\ an,\ ob\ die\ Zeichenkette\ ein\ Palindrom\ ist.\ Auswertungen\:\n\ \n\ istPalindrom("anna")\ ->\ istPalindrom("nn")\ ->\ istPalindrom("")\ ->\ true\n\ istPalindrom("asta")\ ->\ istPalindrom("st")\ ->\ false\n\ istPalindrom("axa")\ ->\ istPalindrom("x")\ ->\ true\n\ istPalindrom("xyz")\ ->\ false\n\ @param\ s\ ein\ beliebiger\ String\ ungleich\ null\n
+comment5.params=s
+comment5.target=int\ anzahlLeerzeichen(java.lang.String)
+comment5.text=\n\ Berechnet\ die\ Anzahl\ Leerzeichen\ in\ der\ Zeichenketten.\ Auswertung\:\n\ \n\ anzahlLeerzeichen("a\ bc\ d")\n\ ->\ 0\ +\ anzahlLeerzeichen("\ bc\ d")\n\ ->\ 0\ +\ (1\ +\ anzahlLeerzeichen("bc\ d"))\n\ ->\ 0\ +\ (1\ +\ (0\ +\ anzahlLeerzeichen("c\ d")))\n\ ->\ 0\ +\ (1\ +\ (0\ +\ (0\ +\ anzahlLeerzeichen("\ d"))))\n\ ->\ 0\ +\ (1\ +\ (0\ +\ (0\ +\ (1\ +\ anzahlLeerzeichen("d")))))\n\ ->\ 0\ +\ (1\ +\ (0\ +\ (0\ +\ (1\ +\ (0\ +\ anzahlLeerzeichen(""))))))\n\ ->\ 0\ +\ (1\ +\ (0\ +\ (0\ +\ (1\ +\ (0\ +\ 0)))))\n\ ->\ 0\ +\ (1\ +\ (0\ +\ (0\ +\ (1\ +\ 0))))\n\ ->\ 0\ +\ (1\ +\ (0\ +\ (0\ +\ 1)))\n\ ->\ 0\ +\ (1\ +\ (0\ +\ 1))\n\ ->\ 0\ +\ (1\ +\ 1)\n\ ->\ 0\ +\ 2\n\ ->\ 2\n\ @param\ s\ ein\ beliebiger\ String\ ungleich\ null\n
+comment6.params=s\ counter
+comment6.target=int\ anzahlLeerzeichenHelper(java.lang.String,\ int)
+comment7.params=s
+comment7.target=java.lang.String\ umgedreht(java.lang.String)
+comment7.text=\n\ Liefert\ die\ umgedrehte\ Zeichenkette.\ Auswertung\:\n\ \n\ \ \ umgedreht("regal")\n\ ->\ umgedreht("egal")\ +\ 'r'\n\ ->\ (umgedreht("gal")\ +\ 'e')\ +\ 'r'\n\ ->\ ((umgedreht("al")\ +\ 'g')\ +\ 'e')\ +\ 'r'\n\ ->\ (((umgedreht("l")\ +\ 'a')\ +\ 'g')\ +\ 'e')\ +\ 'r'\n\ ->\ (((\ \ \ \ \ \ \ \ \ \ "l"\ \ +\ 'a')\ +\ 'g')\ +\ 'e')\ +\ 'r'\n\ ->\ ((\ \ \ \ \ \ \ \ \ \ \ "la"\ \ \ \ \ \ \ \ +\ 'g')\ +\ 'e')\ +\ 'r'\n\ ->\ (\ \ \ \ \ \ \ \ \ \ \ \ "lag"\ \ \ \ \ \ \ \ \ \ \ \ \ \ +\ 'e')\ +\ 'r'\n\ ->\ \ \ \ \ \ \ \ \ \ \ \ \ \ "lage"\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ +\ 'r'\n\ ->\ \ \ \ \ \ \ \ \ \ \ \ \ \ "lager"\n\ @param\ s\ ein\ beliebiger\ String\ ungleich\ null\n
+comment8.params=c
+comment8.target=boolean\ istVokal(char)
+comment9.params=
+comment9.target=void\ testeAlleMethoden()
+comment9.text=\n\ Hier\ finden\ die\ Aufrufe\ statt,\ die\ in\ den\ Diagrammen\n\ auf\ dem\ Aufgabenblatt\ veranschaulicht\ werden\ (sollen).\n
+numComments=11

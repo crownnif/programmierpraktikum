@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ratemaschine
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Ratemaschine.\r\n\ \r\n\ @author\ Finn\ Kronnj\u00E4ger,\ Tom\ Hert\r\n\ @version\ v0.1-abgabe\r\n
+comment1.params=ratezahl
+comment1.target=Ratemaschine(int)
+comment2.params=zahl
+comment2.target=java.lang.String\ istEsDieseZahl(int)
+comment2.text=\r\n\ Errate\ die\ Zahl\r\n\ \r\n\ @param\ zahl\r\n\ \ \ \ \ \ Die\ Zahl,\ die\ man\ denkt,\ w\u00E4re\ es\r\n\ @return\ String\ ->\ Stimmt,\ Gr\u00F6\u00DFer,\ Kleiner\ \ \ \ \ \r\n
+numComments=3

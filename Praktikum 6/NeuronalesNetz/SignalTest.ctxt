@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SignalTest
+comment0.text=\n\ Die\ Test-Klasse\ SignalTest.\n\n\ @author\ \ Finn\ K\n\ @version\ 2022\n
+comment1.params=
+comment1.target=SignalTest()
+comment1.text=\n\ Konstruktor\ fuer\ die\ Test-Klasse\ SignalTest\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ \ Setzt\ das\ Testger\u00FCst\ fuer\ den\ Test.\n\n\ Wird\ vor\ jeder\ Testfall-Methode\ aufgerufen.\n
+comment3.params=
+comment3.target=void\ testeGetAusgangswert()
+comment3.text=\n\ \ Testes,\ dass\ das\ Ausgangssignal\ richtig\ ist.\n
+comment4.params=
+comment4.target=void\ tearDown()
+comment4.text=\n\ Gibt\ das\ Testger\u00FCst\ wieder\ frei.\n\n\ Wird\ nach\ jeder\ Testfall-Methode\ aufgerufen.\n
+numComments=5

@@ -1,0 +1,36 @@
+Class documentation
+<---- javadoc command: ---->
+C:\BlueJ\bluej501\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+C:\BlueJ\bluej501\lib\bluejcore.jar;C:\BlueJ\bluej501\lib\junit-4.12.jar;C:\BlueJ\bluej501\lib\junit-jupiter-5.5.2.jar;C:\BlueJ\bluej501\lib\junit-jupiter-api-5.5.2.jar;C:\BlueJ\bluej501\lib\junit-jupiter-engine-5.5.2.jar;C:\BlueJ\bluej501\lib\junit-jupiter-migrationsupport-5.5.2.jar;C:\BlueJ\bluej501\lib\junit-jupiter-params-5.5.2.jar;C:\BlueJ\bluej501\lib\junit-platform-commons-1.5.2.jar;C:\BlueJ\bluej501\lib\junit-platform-console-1.5.2.jar;C:\BlueJ\bluej501\lib\junit-platform-console-standalone-1.5.2.jar;C:\BlueJ\bluej501\lib\junit-platform-engine-1.5.2.jar;C:\BlueJ\bluej501\lib\junit-platform-launcher-1.5.2.jar;C:\BlueJ\bluej501\lib\junit-platform-reporting-1.5.2.jar;C:\BlueJ\bluej501\lib\junit-platform-runner-1.5.2.jar;C:\BlueJ\bluej501\lib\junit-platform-suite-api-1.5.2.jar;C:\BlueJ\bluej501\lib\junit-platform-testkit-1.5.2.jar;C:\BlueJ\bluej501\lib\junit-quickcheck-core-0.9.jar;C:\BlueJ\bluej501\lib\junit-vintage-engine-5.5.2.jar;C:\BlueJ\bluej501\lib\hamcrest-core-1.3.jar;C:\BlueJ\bluej501\lib\hamcrest-library-1.3.jar;C:\BlueJ\bluej501\lib\lang-stride.jar;C:\BlueJ\bluej501\lib\javafx\lib\javafx.base.jar;C:\BlueJ\bluej501\lib\javafx\lib\javafx.controls.jar;C:\BlueJ\bluej501\lib\javafx\lib\javafx.fxml.jar;C:\BlueJ\bluej501\lib\javafx\lib\javafx.graphics.jar;C:\BlueJ\bluej501\lib\javafx\lib\javafx.media.jar;C:\BlueJ\bluej501\lib\javafx\lib\javafx.properties.jar;C:\BlueJ\bluej501\lib\javafx\lib\javafx.swing.jar;C:\BlueJ\bluej501\lib\javafx\lib\javafx.web.jar;C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt03-ReferenzenSchleifenAutorennen\Projekte\Blatt03_2_Iteration
+-d
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt03-ReferenzenSchleifenAutorennen\Projekte\Blatt03_2_Iteration\doc
+-encoding
+windows-1252
+-charset
+windows-1252
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt03-ReferenzenSchleifenAutorennen\Projekte\Blatt03_2_Iteration\TextAnalyse.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt03-ReferenzenSchleifenAutorennen\Projekte\Blatt03_2_Iteration\TextAnalyse.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.10
+Building tree for all the packages and classes...
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt03-ReferenzenSchleifenAutorennen\Projekte\Blatt03_2_Iteration\doc\TextAnalyse.html...
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt03-ReferenzenSchleifenAutorennen\Projekte\Blatt03_2_Iteration\doc\package-summary.html...
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt03-ReferenzenSchleifenAutorennen\Projekte\Blatt03_2_Iteration\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt03-ReferenzenSchleifenAutorennen\Projekte\Blatt03_2_Iteration\doc\allclasses.html...
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt03-ReferenzenSchleifenAutorennen\Projekte\Blatt03_2_Iteration\doc\allclasses.html...
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt03-ReferenzenSchleifenAutorennen\Projekte\Blatt03_2_Iteration\doc\index.html...

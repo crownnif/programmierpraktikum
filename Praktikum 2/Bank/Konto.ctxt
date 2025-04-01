@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Konto
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Bank.\n\ \n\ @author\ Finn\ Kronj\u00E4ger\ und\ Tom\ Hert\n\ @version\ v0.1\n
+comment1.params=kontonummer\ dispo
+comment1.target=Konto(int,\ int)
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Bank\n\ \n\ @param\ kontonummer\n\ \ \ \ \ \ Die\ Kontonummer\ (Einzigartig)\n\ @param\ dispo\n\ \ \ \ \ \ Wie\ hoch\ soll\ der\ Dispokredit\ sein\n
+comment2.params=
+comment2.target=int\ getKontostand()
+comment2.text=\n\ Getter\ f\u00FCr\ den\ Kontostand\n\ \n\ @return\ int\ Kontostand\n
+comment3.params=
+comment3.target=int\ getKontonummer()
+comment3.text=\n\ Getter\ f\u00FCr\ den\ Kontonummer\n\ \n\ @return\ int\ Kontonummer\n
+comment4.params=neuerDispo
+comment4.target=java.lang.String\ aendereDispo(int)
+comment4.text=\n\ Diese\ Funktion\ \u00E4ndert\ das\ Dispolimit\n\ \n\ @param\ neuerDispo\n\ \ \ \ \ \ Wie\ hoch\ soll\ das\ neue\ Limit\ sein?\n\ \n\ @return\ String\ Erfolg\ der\ \u00C4nderung\n
+comment5.params=summe
+comment5.target=void\ einzahlen(int)
+comment5.text=\n\ Funktion\ zur\ Einzahlung\ ins\ Konto\n\ \n\ @param\ summe\n\ \ \ \ \ \ Der\ Betrag,\ der\ eingezahlt\ werden\ soll\n
+comment6.params=summe
+comment6.target=void\ abheben(int)
+comment6.text=\n\ Funktion\ zur\ Abhebung\ vom\ Konto\n\ \n\ @param\ summe\n\ \ \ \ \ \ Betrag,\ der\ abgehoben\ werden\ soll\n
+numComments=7

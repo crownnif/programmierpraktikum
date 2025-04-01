@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PartyMenge
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ PartyMenge.\n\ \n\ @author\ (Ihr\ Name)\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=
+comment1.target=PartyMenge()
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ PartyMenge\n
+comment2.params=geburtstag
+comment2.target=void\ fuegeGeburtstagHinzu(Tag)
+comment3.params=
+comment3.target=boolean\ mindestensEinGeburtstagMehrfach()
+numComments=4

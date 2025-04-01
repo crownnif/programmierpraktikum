@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Zeichner
+comment0.text=\n\ Exemplare\ dieser\ Klasse\ zeichnen\ eine\ einfache\ Zeichnung.\n\ Um\ die\ Zeichnung\ auf\ dem\ Bildschirm\ anzuzeigen,\ muss\ die\n\ Methode\ zeichne\ an\ einem\ Exemplar\ aufgerufen\ werden.\n\n\ Diese\ Klasse\ ist\ als\ fruehes\ Java-Lehrbeispiel\ mit\ BlueJ\ gedacht.\n\ \n\ @author\ \ Axel\ Schmolitzky\n
+comment1.params=mundFarbe\ hBewegen\ vBewegen
+comment1.target=void\ zeichneGesicht(java.lang.String,\ int,\ int)
+comment1.text=\n\ Zeichne\ die\ Zeichnung.\n\ @param\ mundFarbe\n\ \ \ \ \ \ \ \ \ \ Die\ Farbe,\ welche\ der\ Mund\ haben\ soll.\n
+comment2.params=
+comment2.target=void\ zeichneGesichter()
+comment3.params=hBewegen\ vBewegen\ groesse
+comment3.target=Kreis\ zeichneKopf(int,\ int,\ int)
+comment3.text=\n\ Zeichnet\ den\ Kopf.\n
+comment4.params=mundFarbe\ hBewegen\ vBewegen\ groesse
+comment4.target=Quadrat\ zeichneMund(java.lang.String,\ int,\ int,\ int)
+comment5.params=hBewegen\ vBewegen\ hGroesse\ vGroesse
+comment5.target=Dreieck\ zeichneNase(int,\ int,\ int,\ int)
+comment6.params=hBewegen\ vBewegen\ groesse
+comment6.target=Kreis\ zeichneAuge(int,\ int,\ int)
+numComments=7

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Leinwand
+comment0.text=\n\ Ein\ Exemplar\ der\ Klasse\ Leinwand\ bietet\ eine\ Zeichenfl\u00E4che,\n\ auf\ der\ ein\ zweidimensionales\ Array\ von\ Bildpunkten\ dargestellt\ werden\ kann.\n\ \n\ \n\ Die\ erste\ Dimension\ des\ Arrays\ h\u00E4lt\ die\ y-Koordinate\ (Zeilen)\ und\n\ die\ zweite\ Dimension\ die\ x-Koordinate.\ Die\ Bilder\ sind\ SW-Bilder.\ Die\n\ Bildpunkte\ sind\ short-Werte\ aus\ dem\ Bereich\ 0-255,\ die\ Grauwerte\ darstellen,\n\ f\u00FCr\ die\ gilt\:\ 0\=schwarz\ 255\=weiss\n\ \n\ @author\ Franek\ Stark,\ Axel\ Schmolitzky\n\ @version\ 2021\n
+comment1.params=title\ width\ height\ bgColour
+comment1.target=Leinwand(java.lang.String,\ int,\ int,\ javafx.scene.paint.Color)
+comment1.text=\n\ Initialisiert\ eine\ neue\ Leinwand.\n\ \n\ @param\ title\n\ \ \ \ \ \ \ \ \ \ \ \ Der\ Titel\ der\ Leinwand\n\ @param\ width\n\ \ \ \ \ \ \ \ \ \ \ \ Die\ Breite\ der\ Leinwand\n\ @param\ height\n\ \ \ \ \ \ \ \ \ \ \ \ Die\ Hoehe\ der\ Leinwand\n\ @param\ bgColour\n\ \ \ \ \ \ \ \ \ \ \ \ Die\ Hintergrundfarbe\n
+comment2.params=title\ width\ height
+comment2.target=Leinwand(java.lang.String,\ int,\ int)
+comment2.text=\n\ Erzeugt\ eine\ Leinwand\ mit\ Standardhintergrund(Weiss)\n\ \n\ @param\ title\n\ \ \ \ \ \ \ \ \ \ \ \ Der\ Titel\ der\ Leinwand\n\ @param\ width\n\ \ \ \ \ \ \ \ \ \ \ \ Die\ Breite\ der\ Leinwand\n\ @param\ height\n\ \ \ \ \ \ \ \ \ \ \ \ Die\ Hoehe\ der\ Leinwand\n
+comment3.params=
+comment3.target=void\ sichtbarMachen()
+comment3.text=\n\ Diese\ Leinwand\ sichtbar\ machen.\ Diese\ Methode\ kann\ auch\ benutzt\ werden,\n\ um\ eine\ sichtbare\ Leinwand\ wieder\ vor\ andere\ Fenster\ zu\ holen.\n
+comment4.params=bild
+comment4.target=void\ zeichneBild(short[][])
+comment4.text=\n\ Zeichnet\ ein\ Bild,\ das\ in\ unserem\ internen\ Format\ angegeben\ ist\ (ein\n\ zweidimensionales\ Array\ von\ Grauwerten\ als\ short-Werte).\n
+numComments=5

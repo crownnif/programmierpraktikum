@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=KartenTripel
+comment0.text=\r\n\ Ein\ KartenTripel\ besteht\ aus\ drei\ Spielkarten.\r\n\ \r\n\ @author\ Axel\ Schmolitzky\ \r\n\ @version\ 2021\r\n
+comment1.params=k1\ k2\ k3
+comment1.target=KartenTripel(spielkarten.Spielkarte,\ spielkarten.Spielkarte,\ spielkarten.Spielkarte)
+comment1.text=\r\n\ Initialisiert\ ein\ Kartentripel\ mit\ drei\ Spielkarten.\r\n\ Die\ \u00FCbergebenen\ Karten\ d\u00FCrfen\ paarweise\ nicht\ gleich\ sein.\r\n\ @param\ k1\ die\ erste\ Spielkarte;\ darf\ nicht\ null\ sein\r\n\ @param\ k2\ die\ zweite\ Spielkarte;\ darf\ nicht\ null\ sein\r\n\ @param\ k3\ die\ dritte\ Spielkarte;\ darf\ nicht\ null\ sein\r\n\ @throw\ IllegalArgumentException\r\n
+comment2.params=
+comment2.target=spielkarten.Spielkarte\ gibKarte1()
+comment2.text=\r\n\ @return\ eine\ Referenz\ auf\ die\ erste\ der\ drei\ Spielkarten\ (garantiert\ ungleich\ null).\r\n
+comment3.params=
+comment3.target=spielkarten.Spielkarte\ gibKarte2()
+comment3.text=\r\n\ @return\ eine\ Referenz\ auf\ die\ zweite\ der\ drei\ Spielkarten\ (garantiert\ ungleich\ null).\r\n
+comment4.params=
+comment4.target=spielkarten.Spielkarte\ gibKarte3()
+comment4.text=\r\n\ @return\ eine\ Referenz\ auf\ die\ dritte\ der\ drei\ Spielkarten\ (garantiert\ ungleich\ null).\r\n
+numComments=5

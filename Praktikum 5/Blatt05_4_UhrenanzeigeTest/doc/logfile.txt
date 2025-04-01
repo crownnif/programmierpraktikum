@@ -1,0 +1,39 @@
+Class documentation
+<---- javadoc command: ---->
+C:\BlueJ\bluej412\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\BlueJ\bluej412\lib\bluejcore.jar;C:\BlueJ\bluej412\lib\junit-4.11.jar;C:\BlueJ\bluej412\lib\hamcrest-core-1.3.jar;C:\BlueJ\bluej412\lib\lang-stride.jar;C:\BlueJ\bluej412\lib\userlib\pi4j-core.jar;C:\BlueJ\bluej412\lib\userlib\pi4j-device.jar;C:\BlueJ\bluej412\lib\userlib\pi4j-gpio-extension.jar;C:\BlueJ\bluej412\lib\userlib\pi4j-service.jar;C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe1718-PR1-WI\Praktikum\Blatt05-InterfacesTesten\Projekte\Blatt05_4_UhrenanzeigeTest
+-d
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe1718-PR1-WI\Praktikum\Blatt05-InterfacesTesten\Projekte\Blatt05_4_UhrenanzeigeTest\doc
+-encoding
+x-MacRoman
+-charset
+x-MacRoman
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe1718-PR1-WI\Praktikum\Blatt05-InterfacesTesten\Projekte\Blatt05_4_UhrenanzeigeTest\Uhrenanzeige.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe1718-PR1-WI\Praktikum\Blatt05-InterfacesTesten\Projekte\Blatt05_4_UhrenanzeigeTest\Uhrenanzeige.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_144
+Building tree for all the packages and classes...
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe1718-PR1-WI\Praktikum\Blatt05-InterfacesTesten\Projekte\Blatt05_4_UhrenanzeigeTest\doc\Uhrenanzeige.html...
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe1718-PR1-WI\Praktikum\Blatt05-InterfacesTesten\Projekte\Blatt05_4_UhrenanzeigeTest\Uhrenanzeige.java:47: warning - @TODO is an unknown tag.
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe1718-PR1-WI\Praktikum\Blatt05-InterfacesTesten\Projekte\Blatt05_4_UhrenanzeigeTest\doc\package-frame.html...
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe1718-PR1-WI\Praktikum\Blatt05-InterfacesTesten\Projekte\Blatt05_4_UhrenanzeigeTest\doc\package-summary.html...
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe1718-PR1-WI\Praktikum\Blatt05-InterfacesTesten\Projekte\Blatt05_4_UhrenanzeigeTest\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe1718-PR1-WI\Praktikum\Blatt05-InterfacesTesten\Projekte\Blatt05_4_UhrenanzeigeTest\doc\allclasses-frame.html...
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe1718-PR1-WI\Praktikum\Blatt05-InterfacesTesten\Projekte\Blatt05_4_UhrenanzeigeTest\doc\allclasses-noframe.html...
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe1718-PR1-WI\Praktikum\Blatt05-InterfacesTesten\Projekte\Blatt05_4_UhrenanzeigeTest\doc\index.html...
+1 warning

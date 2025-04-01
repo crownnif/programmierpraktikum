@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Delegation
+comment0.text=\n\ Delegiert\ die\ Berechnung\ an\ das\ String-Objekt.\n\ \n\ @author\ Fredrik\ Winkler,\ Petra\ Becker-Pechau,\ Axel\ Schmolitzky\n\ @version\ 2021\n
+comment1.params=wort
+comment1.target=int\ hashWert(java.lang.String)
+comment1.text=\n\ Bildet\ das\ gegebene\ Wort\ auf\ einen\ ganzzahligen\ Wert\ ab.\n
+comment2.params=
+comment2.target=java.lang.String\ gibBeschreibung()
+comment2.text=\n\ Liefert\ eine\ Beschreibung\ fuer\ die\ Art\ der\ Berechnung.\n
+numComments=3

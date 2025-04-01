@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=KartenTripel
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ KartenTripel.\n\ \n\ @author\ (Ihr\ Name)\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=k1\ k2\ k3
+comment1.target=KartenTripel(spielkarten.Spielkarte,\ spielkarten.Spielkarte,\ spielkarten.Spielkarte)
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ KartenTripel\n
+comment2.params=
+comment2.target=spielkarten.Spielkarte\ karte1()
+comment2.text=\n\ Gibt\ die\ erste\ Karte.\n\ \n\ @return\ \ \ \ \ \ \ \ die\ erste\ Karte\n
+comment3.params=
+comment3.target=spielkarten.Spielkarte\ karte2()
+comment3.text=\n\ Gibt\ die\ zweite\ Karte.\n\ \n\ @return\ \ \ \ \ \ \ \ die\ zweite\ Karte\n
+comment4.params=
+comment4.target=spielkarten.Spielkarte\ karte3()
+comment4.text=\n\ Gibt\ die\ dritte\ Karte.\n\ \n\ @return\ \ \ \ \ \ \ \ die\ dritte\ Karte\n
+numComments=5

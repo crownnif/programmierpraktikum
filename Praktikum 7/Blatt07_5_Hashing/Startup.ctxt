@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Startup
+comment0.text=\n\ Diese\ Klasse\ dient\ als\ Startup\ f\u00FCr\ die\ Aufgabe\ zur\n\ Implementierung\ von\ Hash-Verfahren.\n\ \n\ @author\ Fredrik\ Winkler,\ Petra\ Becker-Pechau,\ Axel\ Schmolitzky\n\ @version\ 2021\n
+comment1.params=
+comment1.target=void\ visualisiereHashtabelle()
+comment1.text=\n\ Zeigt\ die\ Hashtabelle\ eines\ Wortschatzes\ auf\ der\ Konsole\ an.\n
+comment2.params=
+comment2.target=void\ vergleichePerformance()
+comment2.text=\n\ Vergleicht\ die\ Performance\ verschiedener\ Hashfunktionen.\n
+comment3.params=text\ berechner\ groesse
+comment3.target=HashWortschatz\ extrahiereWortschatz(java.util.List,\ HashWertBerechner,\ int)
+comment3.text=\n\ Extrahiert\ einen\ Wortschatz\ aus\ dem\ gegebenenen\ Text.\n\n\ @param\ text\ der\ zu\ verarbeitende\ Text\n\ @param\ berechner\ der\ zu\ verwendende\ HashWertBerechner\n\ @param\ groesse\ die\ Anzahl\ der\ \u00DCberlaufbeh\u00E4lter\n\ @return\ der\ extrahierte\ Wortschatz\n
+comment4.params=text\ berechner\ groesse
+comment4.target=void\ vermesse(java.util.List,\ HashWertBerechner,\ int)
+comment4.text=\n\ Diese\ Methode\ misst,\ wie\ lange\ es\ dauert,\n\ einen\ Wortschatz\ aus\ dem\ gegebenen\ Text\ zu\ extrahieren.\n\n\ @param\ text\ der\ zu\ verarbeitende\ Text\n\ @param\ berechner\ der\ zu\ verwendende\ HashWertBerechner\n\ @param\ groesse\ die\ Anzahl\ der\ \u00DCberlaufbeh\u00E4lter\n
+numComments=5

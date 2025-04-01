@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Rennauto
+comment0.text=\n\ Die\ Klasse\ modelliert\ ein\ Rennauto\ mit\ verschiedenen\ Eigenschaften.\n\ \n\ @author\ Tommy,\ Finn\n\ @version\ 11.2021\n
+comment1.params=fahrerIn\ fahrzeugtyp\ maximalgeschwindigkeit
+comment1.target=Rennauto(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Rennauto\n\ \n\ @param\ fahrerIn\ \ Der\ Name\ der\ Fahrer\:in\n\ @param\ fahrzeugtyp\ Art\ des\ Fahrzeuges\n\ @param\ maximalgeschwindigkeit\ \ \ \ Die\ maximale\ Geschwindigkeit\ des\ Autos\ in\ km/h.\ \n
+comment2.params=fahrerIn
+comment2.target=Rennauto(java.lang.String)
+comment2.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Rennauto\n\ \n\ @param\ fahrerIn\ \ \ \ Der\ Name\ der\ Fahrer\:in.\n
+comment3.params=zeitabschnitt
+comment3.target=void\ fahre(int)
+comment3.text=\n\ Die\ Methode\ simuliert\ das\ Fahren\ f\u00FCr\ einen\ Zeitabschnitt,\ welcher\ selber\ festgelegt\ wird.\n\ \n\ @param\ zeitabschnitt\ \ \ \ \ Zeit\ in\ Sekunden\n
+comment4.params=
+comment4.target=int\ gibGefahreneStrecke()
+comment4.text=\n\ Die\ Methode\ gibt\ die\ gefahrene\ Strecke.\n\ \n\ @return\ gefahrene\ Strecke\n
+comment5.params=
+comment5.target=java.lang.String\ gibFahrerIn()
+comment5.text=\n\ Die\ Methode\ gibt\ die\ Fahrer\:in.\n\ \n\ @return\ Fahrer\:in\n
+numComments=6

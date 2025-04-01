@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=KettenNeuronTest
+comment0.text=\n\ Die\ Test-Klasse\ KettenNeuronTest.\n\n\ @author\ \ Finn\ K\n\ @version\ 2022\n
+comment1.params=
+comment1.target=KettenNeuronTest()
+comment1.text=\n\ Konstruktor\ fuer\ die\ Test-Klasse\ KettenNeuronTest\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ \ Setzt\ das\ Testger\u00FCst\ fuer\ den\ Test.\n\n\ Wird\ vor\ jeder\ Testfall-Methode\ aufgerufen.\n
+comment3.params=
+comment3.target=void\ testeVerkettung()
+comment3.text=\n\ \ Testet,\ dass\ korrekt\ verkettet\ wird.\n
+comment4.params=
+comment4.target=void\ testeOhneEingang()
+comment4.text=\n\ \ Testet,\ dass\ Caps\ ber\u00FCcksichtigt\ werden.\n
+comment5.params=
+comment5.target=void\ tearDown()
+comment5.text=\n\ Gibt\ das\ Testger\u00FCst\ wieder\ frei.\n\n\ Wird\ nach\ jeder\ Testfall-Methode\ aufgerufen.\n
+numComments=6

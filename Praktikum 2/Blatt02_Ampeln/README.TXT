@@ -1,0 +1,1 @@
+In diesem Projekt wird der Umgang mit booleschen Ausdruecken geuebt. 

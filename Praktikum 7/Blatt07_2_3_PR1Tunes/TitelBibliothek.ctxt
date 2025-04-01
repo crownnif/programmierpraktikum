@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=TitelBibliothek
+comment0.text=\r\n\ Die\ Klasse\ TitelBibliothek\ implementiert\ eine\ einfache\ Datenbasis\ von\r\n\ Musiktiteln.\r\n\ \r\n\ @author\ Axel\ Schmolitzky,\ Fredrik\ Winkler\r\n\ @version\ 2021\r\n
+comment1.params=bibliotheksdatei
+comment1.target=TitelBibliothek(java.lang.String)
+comment1.text=\r\n\ Initialisiert\ die\ TitelBibliothek\ aus\ der\ angegebenen\ Datei\r\n\ \r\n\ @param\ bibliotheksdatei\r\n\ \ \ \ \ \ \ \ \ \ \ \ der\ Name\ einer\ Datei\ mit\ Titelinformationen\r\n
+comment2.params=
+comment2.target=TitelBibliothek()
+comment2.text=\r\n\ Initialisiert\ die\ TitelBibliothek\ aus\ der\ Datei\ JazzMix.txt\r\n
+comment3.params=
+comment3.target=Titel\ gibZufaelligenTitel()
+comment3.text=\r\n\ Liefere\ einen\ zufaelligen\ Titel\ aus\ dieser\ Bibliothek.\r\n
+comment4.params=
+comment4.target=void\ ausgebenAufKonsole()
+comment4.text=\r\n\ Gib\ alle\ Titel\ in\ dieser\ Bibliothek\ auf\ die\ Konsole\ aus.\r\n
+comment5.params=dateiName
+comment5.target=void\ einlesenAusDatei(java.lang.String)
+comment5.text=\r\n\ Liest\ Titelinformationen\ aus\ einer\ Textdatei\ ein.\ Jeder\ Titel\ steht\ in\r\n\ einer\ eigenen\ Zeile.\r\n\ \r\n\ @param\ dateiName\r\n\ \ \ \ \ \ \ \ \ \ \ \ der\ Dateiname\ der\ Textdatei\r\n
+comment6.params=zeile
+comment6.target=void\ verarbeiteZeile(java.lang.String)
+comment7.params=closeable
+comment7.target=void\ closeSilently(java.io.Closeable)
+numComments=8

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Konto
+comment0.text=\r\n\ Diese\ Klasse\ modelliert\ einfache\ Konten,\ die\ ihren\ Saldo\ in\ Euro\r\n\ als\ ganze\ Zahl\ speichern.\ Auf\ einem\ Konto\ kann\ abgehoben\ und\r\n\ eingezahlt\ werden.\ Ein\ Konto\ kann\ \u00FCberzogen\ werden.\r\n\ \r\n\ @author\ Axel\ Schmolitzky\r\n\ @version\ 2021\r\n
+comment1.params=
+comment1.target=Konto()
+comment1.text=\r\n\ Initialisiert\ ein\ neues\ Konto\ ohne\ Guthaben.\r\n
+comment2.params=startguthaben
+comment2.target=Konto(int)
+comment2.text=\r\n\ Initialisiert\ ein\ neues\ Konto\ mit\ einem\ Startguthaben.\r\n\ \r\n\ @param\ startguthaben\ das\ gew\u00FCnschte\ Startguthaben\ in\ Euro\r\n
+comment3.params=betrag
+comment3.target=void\ zahleEin(int)
+comment3.text=\r\n\ Zahlt\ einen\ Betrag\ auf\ diesem\ Konto\ ein.\r\n\ \r\n\ @param\ betrag\ der\ einzuzahlende\ Betrag\ in\ Euro;\ darf\ nicht\ negativ\ sein\r\n\ @throws\ IllegalArgumentException\r\n
+comment4.params=betrag
+comment4.target=void\ hebeAb(int)
+comment4.text=\r\n\ Hebt\ einen\ Betrag\ von\ diesem\ Konto\ ab.\r\n\ \r\n\ @param\ betrag\ der\ abzuhebende\ Betrag\ in\ Euro;\ darf\ nicht\ negativ\ sein\r\n\ @throws\ IllegalArgumentException\r\n
+comment5.params=
+comment5.target=int\ gibSaldo()
+comment5.text=\r\n\ Liefert\ den\ Saldo\ dieses\ Kontos.\r\n\ \r\n\ @return\ den\ Saldo\ dieses\ Kontos\ in\ Euro\r\n
+numComments=6

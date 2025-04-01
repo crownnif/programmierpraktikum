@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Osterpruefer
+comment0.text=\r\n\ Diese\ Klasse\ \u00FCberpr\u00FCft,\ ob\ ein\ Exemplar\ der\ Klasse\ Osterauskunft\ die\r\n\ richtigen\ Werte\ liefert.\ Das\ Ergebnis\ der\ Pr\u00FCfung\ wird\ grafisch\ geliefert,\r\n\ indem\ f\u00FCr\ jeden\ falsch\ gelieferten\ Wert\ ein\ Button\ angezeigt\ wird.\r\n\ \r\n\ @author\ Fredrik\ Winkler,\ Axel\ Schmolitzky\r\n\ @version\ 2021\r\n
+comment1.params=
+comment1.target=Osterpruefer()
+comment1.text=\r\n\ Initialisiert\ eine\ Osterpruefer-UI\ mit\ Buttons\ f\u00FCr\ alle\ falsch\ gelieferten\ Ostertage.\r\n
+comment2.params=stage
+comment2.target=void\ ersetzeFehleranzeigeDurchGlueckwunsch(javafx.stage.Stage)
+comment3.params=ostern\ fehler
+comment3.target=boolean\ beantwortetAllesKorrekt(Osterauskunft,\ javafx.scene.layout.TilePane)
+comment4.params=stage
+comment4.target=javafx.scene.layout.TilePane\ initialisiere(javafx.stage.Stage)
+comment4.text=\r\n\ Initialisiert\ die\ Stage\ und\ liefert\ den\ TilePane,\ der\ die\r\n\ weiteren\ Nodes\ aufnimmt.\r\n
+comment5.params=tag
+comment5.target=boolean\ gueltigesDatum(int)
+comment5.text=\r\n\ Prueft\ ob\ ein\ Tag\ ein\ gueltiger\ Tag\ ist.\r\n\ @param\ tag\ Ein\ zu\ ueberpruefender\ Tag.\r\n
+comment6.params=tag\ jahr
+comment6.target=java.lang.String\ datum(int,\ int)
+comment6.text=\r\n\ Gibt\ fuer\ ein\ Tag\ und\ ein\ Jahr\ einen\ passende\ Stringrepraesentation\ zurueck.\r\n\ @param\ tag\ Ein\ Tag\r\n\ @param\ jahr\ Ein\ Jahr\r\n\ @return\ eine\ Stringrepraesentation\ von\ Tag\ und\ Jahr.\r\n
+numComments=7

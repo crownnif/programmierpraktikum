@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SpielfeldString
+comment0.text=\n\ Ein\ Spielfeld\ besteht\ aus\ drei\ Zeilen\ mit\ je\ drei\ Spalten.\ Man\ kann\ an\ den\ neun\n\ Positionen\ einen\ der\ beiden\ Spieler\ als\ Besitzer\ eintragen\ und\ auslesen.\n\ \n\ @author\ Finn,\ Daniil\n\ @version\ 12.2021\n
+comment1.params=
+comment1.target=SpielfeldString()
+comment1.text=\n\ Initialisiert\ ein\ neues,\ leeres\ Spielfeld.\n
+comment2.params=zeile\ spalte
+comment2.target=int\ gibBesitzer(int,\ int)
+comment2.text=\n\ Gibt\ den\ Besitzer\ der\ angegebenen\ Position\ auf\ dem\ Spielfeld.\n\ \n\ @param\ zeile\n\ \ \ \ \ \ \ \ \ \ \ \ vertikale\ Position\ (0-2)\n\ @param\ spalte\n\ \ \ \ \ \ \ \ \ \ \ \ horizontale\ Position\ (0-2)\n\ \ \ \ \ \ \ \ \ \ \ \ \n\ @return\ 0\ (unbesetzt),\ 1\ (Spieler\ 1),\ 2\ (Spieler\ 2)\n\ \n\ @throws\ IllegalArgumentException\n
+comment3.params=zeile\ spalte\ spieler
+comment3.target=void\ besetzePosition(int,\ int,\ int)
+comment3.text=\n\ Besetzt\ die\ angegebene\ Position\ auf\ dem\ Spielfeld\ fuer\ einen\ Spieler.\n\ \n\ @param\ zeile\n\ \ \ \ \ \ \ \ \ \ \ \ vertikale\ Position\ (0-2)\n\ @param\ spalte\n\ \ \ \ \ \ \ \ \ \ \ \ horizontale\ Position\ (0-2)\n\ @param\ spieler\n\ \ \ \ \ \ \ \ \ \ \ \ 0\ (leer),\ 1\ (Spieler\ 1),\ 2\ (Spieler\ 2)\n\ \ \ \ \ \ \ \ \ \ \ \ \n\ @throws\ IllegalArgumentException\n
+comment4.params=
+comment4.target=boolean\ istVoll()
+comment4.text=\n\ Gibt\ an,\ ob\ das\ Spielfeld\ an\ allen\ Positionen\ belegt\ ist.\n
+numComments=5

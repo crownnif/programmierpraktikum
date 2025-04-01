@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Worteinleser
+comment0.text=\n\ Ein\ Worteinleser\ dient\ zum\ Einlesen\ von\ W\u00F6rtern\ aus\ einer\ Datei.\n\ \n\ @author\ Fredrik\ Winkler,\ Petra\ Becker-Pechau,\ Axel\ Schmolitzky\n\ @version\ 2021\n
+comment1.params=dateiName
+comment1.target=java.util.List\ dateiAlsText(java.lang.String)
+comment1.text=\n\ Liest\ einen\ Text\ aus\ einer\ Datei\ ein\ und\ liefert\ ihn\ als\ Liste\ von\ W\u00F6rtern\ zur\u00FCck.\n
+comment2.params=
+comment2.target=Worteinleser()
+comment2.text=\n\ Initialisiert\ einen\ neuen\ Wortleser.\n
+comment3.params=
+comment3.target=java.util.List\ fertig()
+comment3.text=\n\ Gibt\ den\ bisher\ eingelesenen\ Text\ als\ Liste\ zur\u00FCck\ und\ setzt\ den\ Worteinleser\ zur\u00FCck.\n\ Die\ zur\u00FCckgegebene\ Liste\ ist\ damit\ unabh\u00E4ngig\ vom\ internen\ Zustand\ des\ Worteinlesers.\n
+comment4.params=dateiName
+comment4.target=Worteinleser\ ausDatei(java.lang.String)
+comment4.text=\n\ Liest\ eine\ Liste\ von\ W\u00F6rtern\ aus\ einer\ Textdatei\ ein.\n\ \n\ @param\ dateiName\ der\ Dateiname\ der\ einzulesenden\ Textdatei\n\ @return\ this\n
+comment5.params=zeile
+comment5.target=void\ verarbeiteZeile(java.lang.String)
+numComments=6

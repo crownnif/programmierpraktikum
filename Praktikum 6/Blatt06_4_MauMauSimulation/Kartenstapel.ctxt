@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Kartenstapel
+comment0.text=\r\n\ Ein\ Kartenstapel\ h\u00E4lt\ bis\ zu\ 32\ Spielkarten\ eines\ Skatspiels\ \r\n\ auf\ einem\ Stapel.\r\n\ \r\n\ @author\ Axel\ Schmolitzky\ \r\n\ @version\ 2021\r\n
+comment1.params=spiel
+comment1.target=Kartenstapel(spielkarten.Skatspiel)
+comment1.text=\r\n\ Initialisiert\ einen\ neuen\ Stapel\ mit\ allen\ Spielkarten\ des\ \u00FCbergebenen\ Skatspiels\ in\ \r\n\ einer\ zuf\u00E4lligen\ Reihenfolge.\r\n\ @param\ spiel\ das\ Skatspiel,\ dessen\ Spielkarten\ gemischt\ auf\ den\ Stapel\ kommen\ \r\n
+comment2.params=
+comment2.target=Kartenstapel()
+comment2.text=\r\n\ Ein\ neuer\ Stapel\ h\u00E4lt\ alle\ Spielkarten\ eines\ neu\ erzeugten\ Skatspiels\ in\ \r\n\ einer\ zuf\u00E4lligen\ Reihenfolge.\r\n
+comment3.params=
+comment3.target=spielkarten.Spielkarte\ obersteKarteZiehen()
+comment3.text=\r\n\ Zieht\ die\ oberste\ Spielkarte\ von\ diesem\ Stapel,\ falls\ dieser\ nicht\ leer\ ist.\r\n\ Anschlie\u00DFend\ enth\u00E4lt\ dieser\ Stapel\ eine\ Karte\ weniger.\r\n\ @return\ die\ oberste\ Spielkarte\r\n\ @throws\ IllegalStateException\r\n
+comment4.params=
+comment4.target=spielkarten.Spielkarte\ zeigeObersteKarte()
+comment4.text=\r\n\ Zeige\ die\ oberste\ Spielkarte\ von\ diesem\ Stapel,\ falls\ dieser\ nicht\ leer\ ist.\r\n\ Der\ Stapel\ wird\ nicht\ ver\u00E4ndert.\r\n\ @return\ die\ oberste\ Spielkarte\r\n\ @throws\ IllegalStateException\r\n
+comment5.params=
+comment5.target=int\ anzahlKarten()
+comment5.text=\r\n\ Liefert\ die\ Anzahl\ der\ noch\ auf\ diesem\ Stapel\ verf\u00FCgbaren\ Spielkarten.\r\n
+numComments=6

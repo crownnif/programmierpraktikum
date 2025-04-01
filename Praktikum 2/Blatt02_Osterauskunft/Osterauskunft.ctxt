@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Osterauskunft
+comment0.text=\r\n\ Diese\ Klasse\ berechnet\ zu\ einer\ Jahreszahl\ zwischen\ 1800\ und\ 2199\r\n\ das\ Datum\ des\ Ostersonntags.\r\n\ \r\n\ @author\ <dein\ Name>\ \r\n
+comment1.params=jahr
+comment1.target=int\ wannIstOsternImJahr(int)
+comment1.text=\ \r\n\ Liefert\ fuer\ ein\ gegebenes\ Jahr\ den\ Tag,\ an\ dem\ Ostern\ ist.\r\n\ Positive\ Zahlen\ stehen\ fuer\ Tage\ im\ April,\r\n\ negative\ Zahlen\ fuer\ Tage\ im\ Mai.\r\n\ \r\n\ @param\ jahr\ \ Eine\ vierstellige\ Jahreszahl.\r\n\ @return\ \ Eine\ Zahl,\ die\ Tag\ im\ Maerz\ (negativ)\ oder\ April\ (positiv)\ bestimmt,\r\n\ \ \ \ \ \ \ \ \ \ an\ dem\ im\ angegebenen\ Jahr\ Ostern\ ist.\r\n
+numComments=2

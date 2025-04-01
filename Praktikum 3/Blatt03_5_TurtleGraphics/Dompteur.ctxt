@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Dompteur
+comment0.text=\n\ Exemplare\ dieser\ Klasse\ veranlassen\ Turtles\ dazu,\n\ Spuren\ auf\ einer\ Zeichenflaeche\ zu\ hinterlassen.\n\n\ @author\ Axel\ Schmolitzky\n\ @version\ 2021\n\ @author\ Tommy,\ Finn\n\ @version\ 11.2021\n
+comment1.params=
+comment1.target=void\ start()
+comment1.text=\n\ 'PR1'\ auf\ die\ Zeichenflaeche\ zeichnen.\n
+comment2.params=ecken\ kantenlaenge
+comment2.target=void\ zeichneNEck(int,\ int)
+comment2.text=\n\ Die\ Methode\ zeichnet\ ein\ n-Eck.\n\ \n\ @param\ ecken\ Die\ Anzahl\ der\ Ecken.\n\ @param\ kantenlaenge\ \ Die\ L\u00E4nge\ der\ Kanten.\n
+comment3.params=ecken\ kantenlaenge\ x\ y\ drehung\ farbe
+comment3.target=void\ zeichneNEck(int,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment3.text=\n\ Die\ Methode\ zeichnet\ ein\ n-Eck.\n\ \n\ @param\ ecken\ Die\ Anzahl\ der\ Ecken.\n\ @param\ kantenlaenge\ \ Die\ L\u00E4nge\ der\ Kanten.\n\ @param\ x\ Die\ x-Koordinate.\n\ @param\ y\ Die\ y-Koordinate.\n\ @param\ drehung\ \ \ Der\ Drehungswinkel.\n\ @param\ farbe\ Der\ Name\ der\ Farbe.\n
+comment4.params=ecken\ kantenlaenge\ winkel
+comment4.target=void\ zeichneRosette(int,\ int,\ int)
+comment4.text=\n\ Die\ Methode\ zeichnet\ eine\ Rosette.\n\ \n\ @param\ ecken\ Die\ Anzahl\ der\ Ecken.\n\ @param\ kantenlaenge\ \ Die\ L\u00E4nge\ der\ Kanten.\n\ @param\ winkel\ \ \ \ Der\ Winkel\ zwischen\ den\ einzelnen\ n-Ecken.\n
+comment5.params=
+comment5.target=void\ zeichneRosette()
+comment5.text=\n\ Die\ Methode\ zeichnet\ eine\ standard\ Rosette.\n
+numComments=6

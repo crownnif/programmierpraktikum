@@ -1,0 +1,137 @@
+Class documentation
+<---- javadoc command: ---->
+C:\BlueJ\bluej501\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+C:\BlueJ\bluej501\lib\bluejcore.jar;C:\BlueJ\bluej501\lib\junit-4.12.jar;C:\BlueJ\bluej501\lib\junit-jupiter-5.5.2.jar;C:\BlueJ\bluej501\lib\junit-jupiter-api-5.5.2.jar;C:\BlueJ\bluej501\lib\junit-jupiter-engine-5.5.2.jar;C:\BlueJ\bluej501\lib\junit-jupiter-migrationsupport-5.5.2.jar;C:\BlueJ\bluej501\lib\junit-jupiter-params-5.5.2.jar;C:\BlueJ\bluej501\lib\junit-platform-commons-1.5.2.jar;C:\BlueJ\bluej501\lib\junit-platform-console-1.5.2.jar;C:\BlueJ\bluej501\lib\junit-platform-console-standalone-1.5.2.jar;C:\BlueJ\bluej501\lib\junit-platform-engine-1.5.2.jar;C:\BlueJ\bluej501\lib\junit-platform-launcher-1.5.2.jar;C:\BlueJ\bluej501\lib\junit-platform-reporting-1.5.2.jar;C:\BlueJ\bluej501\lib\junit-platform-runner-1.5.2.jar;C:\BlueJ\bluej501\lib\junit-platform-suite-api-1.5.2.jar;C:\BlueJ\bluej501\lib\junit-platform-testkit-1.5.2.jar;C:\BlueJ\bluej501\lib\junit-quickcheck-core-0.9.jar;C:\BlueJ\bluej501\lib\junit-vintage-engine-5.5.2.jar;C:\BlueJ\bluej501\lib\hamcrest-core-1.3.jar;C:\BlueJ\bluej501\lib\hamcrest-library-1.3.jar;C:\BlueJ\bluej501\lib\lang-stride.jar;C:\BlueJ\bluej501\lib\javafx\lib\javafx.base.jar;C:\BlueJ\bluej501\lib\javafx\lib\javafx.controls.jar;C:\BlueJ\bluej501\lib\javafx\lib\javafx.fxml.jar;C:\BlueJ\bluej501\lib\javafx\lib\javafx.graphics.jar;C:\BlueJ\bluej501\lib\javafx\lib\javafx.media.jar;C:\BlueJ\bluej501\lib\javafx\lib\javafx.properties.jar;C:\BlueJ\bluej501\lib\javafx\lib\javafx.swing.jar;C:\BlueJ\bluej501\lib\javafx\lib\javafx.web.jar;C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation
+-d
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.10
+Building tree for all the packages and classes...
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\doc\spielkarten\Kartenbild.html...
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:30: warning - invalid usage of tag &#x1f0ba
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:22: warning - invalid usage of tag &#x1f0b2
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:23: warning - invalid usage of tag &#x1f0b3
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:24: warning - invalid usage of tag &#x1f0b4
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:25: warning - invalid usage of tag &#x1f0b5
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:26: warning - invalid usage of tag &#x1f0b6
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:27: warning - invalid usage of tag &#x1f0b7
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:28: warning - invalid usage of tag &#x1f0b8
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:29: warning - invalid usage of tag &#x1f0b9
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:34: warning - invalid usage of tag &#x1f0b1
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:31: warning - invalid usage of tag &#x1f0bb
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:32: warning - invalid usage of tag &#x1f0bd
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:33: warning - invalid usage of tag &#x1f0be
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:44: warning - invalid usage of tag &#x1f0ca
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:36: warning - invalid usage of tag &#x1f0c2
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:37: warning - invalid usage of tag &#x1f0c3
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:38: warning - invalid usage of tag &#x1f0c4
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:39: warning - invalid usage of tag &#x1f0c5
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:40: warning - invalid usage of tag &#x1f0c6
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:41: warning - invalid usage of tag &#x1f0c7
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:42: warning - invalid usage of tag &#x1f0c8
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:43: warning - invalid usage of tag &#x1f0c9
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:48: warning - invalid usage of tag &#x1f0c1
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:45: warning - invalid usage of tag &#x1f0cb
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:46: warning - invalid usage of tag &#x1f0cd
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:47: warning - invalid usage of tag &#x1f0ce
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:73: warning - invalid usage of tag &#x1f0da
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:65: warning - invalid usage of tag &#x1f0d2
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:66: warning - invalid usage of tag &#x1f0d3
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:67: warning - invalid usage of tag &#x1f0d4
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:68: warning - invalid usage of tag &#x1f0d5
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:69: warning - invalid usage of tag &#x1f0d6
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:70: warning - invalid usage of tag &#x1f0d7
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:71: warning - invalid usage of tag &#x1f0d8
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:72: warning - invalid usage of tag &#x1f0d9
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:77: warning - invalid usage of tag &#x1f0d1
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:74: warning - invalid usage of tag &#x1f0db
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:75: warning - invalid usage of tag &#x1f0dd
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:76: warning - invalid usage of tag &#x1f0de
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:59: warning - invalid usage of tag &#x1f0aa
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:51: warning - invalid usage of tag &#x1f0a2
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:52: warning - invalid usage of tag &#x1f0a3
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:53: warning - invalid usage of tag &#x1f0a4
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:54: warning - invalid usage of tag &#x1f0a5
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:55: warning - invalid usage of tag &#x1f0a6
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:56: warning - invalid usage of tag &#x1f0a7
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:57: warning - invalid usage of tag &#x1f0a8
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:58: warning - invalid usage of tag &#x1f0a9
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:63: warning - invalid usage of tag &#x1f0a1
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:60: warning - invalid usage of tag &#x1f0ab
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:61: warning - invalid usage of tag &#x1f0ad
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:62: warning - invalid usage of tag &#x1f0ae
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:22: warning - invalid usage of tag &#x1f0b2
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:23: warning - invalid usage of tag &#x1f0b3
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:24: warning - invalid usage of tag &#x1f0b4
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:25: warning - invalid usage of tag &#x1f0b5
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:26: warning - invalid usage of tag &#x1f0b6
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:27: warning - invalid usage of tag &#x1f0b7
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:28: warning - invalid usage of tag &#x1f0b8
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:29: warning - invalid usage of tag &#x1f0b9
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:30: warning - invalid usage of tag &#x1f0ba
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:31: warning - invalid usage of tag &#x1f0bb
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:32: warning - invalid usage of tag &#x1f0bd
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:33: warning - invalid usage of tag &#x1f0be
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:34: warning - invalid usage of tag &#x1f0b1
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:36: warning - invalid usage of tag &#x1f0c2
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:37: warning - invalid usage of tag &#x1f0c3
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:38: warning - invalid usage of tag &#x1f0c4
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:39: warning - invalid usage of tag &#x1f0c5
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:40: warning - invalid usage of tag &#x1f0c6
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:41: warning - invalid usage of tag &#x1f0c7
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:42: warning - invalid usage of tag &#x1f0c8
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:43: warning - invalid usage of tag &#x1f0c9
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:44: warning - invalid usage of tag &#x1f0ca
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:45: warning - invalid usage of tag &#x1f0cb
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:46: warning - invalid usage of tag &#x1f0cd
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:47: warning - invalid usage of tag &#x1f0ce
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:48: warning - invalid usage of tag &#x1f0c1
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:51: warning - invalid usage of tag &#x1f0a2
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:52: warning - invalid usage of tag &#x1f0a3
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:53: warning - invalid usage of tag &#x1f0a4
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:54: warning - invalid usage of tag &#x1f0a5
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:55: warning - invalid usage of tag &#x1f0a6
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:56: warning - invalid usage of tag &#x1f0a7
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:57: warning - invalid usage of tag &#x1f0a8
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:58: warning - invalid usage of tag &#x1f0a9
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:59: warning - invalid usage of tag &#x1f0aa
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:60: warning - invalid usage of tag &#x1f0ab
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:61: warning - invalid usage of tag &#x1f0ad
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:62: warning - invalid usage of tag &#x1f0ae
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:63: warning - invalid usage of tag &#x1f0a1
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:65: warning - invalid usage of tag &#x1f0d2
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:66: warning - invalid usage of tag &#x1f0d3
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:67: warning - invalid usage of tag &#x1f0d4
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:68: warning - invalid usage of tag &#x1f0d5
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:69: warning - invalid usage of tag &#x1f0d6
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:70: warning - invalid usage of tag &#x1f0d7
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:71: warning - invalid usage of tag &#x1f0d8
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:72: warning - invalid usage of tag &#x1f0d9
+C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\spielkarten\Kartenbild.java:73: warning - invalid usage of tag &#x1f0da
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\doc\spielkarten\package-summary.html...
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\doc\allclasses.html...
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\doc\allclasses.html...
+Generating C:\Users\axel\Dropbox\0Work\HAW\Lehre\WiSe2122-PR1-ITS\Praktikum\Blatt04-RekursionStringsMauMau\Projekte\Blatt04_4_MauMauSimulation\doc\index.html...
+100 warnings

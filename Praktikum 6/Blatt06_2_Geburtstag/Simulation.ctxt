@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Simulation
+comment0.text=\n\ In\ dieser\ Klasse\ wird\ das\ Geburtstagsparadoxon\ anhand\ der\n\ Messergebnisse\ simulierter\ Parties\ \u00FCberpr\u00FCft.\n\ \n\ @author\ Fredrik\ Winkler\n\ @version\ 2021\n
+comment1.params=gaeste\ parties
+comment1.target=int\ simuliere(int,\ int)
+comment1.text=\n\ Simuliere\ das\ Geburtstagsparadoxon.\n\ \n\ @param\ gaeste\n\ \ \ \ \ \ \ \ \ \ \ \ die\ Anzahl\ der\ G\u00E4ste\ auf\ einer\ Party\n\ @param\ parties\n\ \ \ \ \ \ \ \ \ \ \ \ die\ Anzahl\ der\ Parties.\n\ \ \ \ \ \ \ \ \ \ \ \ Je\ h\u00F6her\ dieser\ Wert,\ desto\ genauer\ das\ Messergebnis\!\n\ \n\ @return\ die\ Wahrscheinlichkeit\ einer\ Kollision\ in\ Prozent\n
+comment2.params=gaeste
+comment2.target=int\ simuliere(int)
+comment2.text=\n\ Simuliere\ das\ Geburtstagsparadoxon\ mit\ 10000\ Parties.\n\ \n\ @param\ gaeste\n\ \ \ \ \ \ \ \ \ \ \ \ die\ Anzahl\ der\ G\u00E4ste\ auf\ einer\ Party\n\ \n\ @return\ die\ Wahrscheinlichkeit\ einer\ Kollision\ in\ Prozent\n
+comment3.params=
+comment3.target=boolean\ test()
+comment3.text=\n\ Testet\ die\ Implementation\ von\ PartyMenge.\n\ @return\ true,\ falls\ der\ Test\ erfolgreich\ war\n
+numComments=4

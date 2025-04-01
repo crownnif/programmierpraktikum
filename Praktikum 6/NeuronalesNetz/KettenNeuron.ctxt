@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=KettenNeuron
+comment0.text=\n\ \n\ \n\ @author\ Finn\ K.\n\ @version\ 2022\n
+comment1.params=
+comment1.target=KettenNeuron()
+comment2.params=n
+comment2.target=void\ eingangHinzufuegen(Neuron)
+comment2.text=\n\ F\u00FCgt\ neues\ Eingangneuron\ hinzu.\n\ \n@param\ n\ \ Das\ Neuron.\ \n
+comment3.params=
+comment3.target=java.lang.String\ getAusgangswert()
+numComments=4

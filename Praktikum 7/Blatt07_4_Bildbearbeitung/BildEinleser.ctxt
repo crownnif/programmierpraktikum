@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BildEinleser
+comment0.text=\n\ Diese\ Klasse\ liest\ Bilddateien\ ein\ und\ liefert\ ein\ Array\ von\ Pixeln.\ \n\ Das\ Array\ ist\ zweidimensional,\ \n\ die\ erste\ Dimension\ ist\ die\ y-Koordinate\ und\ die\n\ zweite\ Dimension\ die\ x-Koordinate.\ \n\ Die\ Bilder\ sind\ SW-Bilder.\ \n\ Die\ jeweiligen\ Pixel\ sind\ Grauwerte\ von\ 0-255,\ wobei\ gilt\:\ \n\ 0\=schwarz\ \n\ 255\=weiss\ \n\ \n\ @author\ Franek\ Stark\n\ @version\ 2021\n
+comment1.params=
+comment1.target=short[][]\ liesBilddaten()
+comment1.text=\n\ Liest\ eine\ Bild-Datei\ ein\ und\ liefert\ die\ Bilddaten\ als\ Pixelarray.\ Die\ Datei\n\ wird\ interaktiv\ vom\ Benutzer\ gew\u00E4hlt.\n\ \n\ @return\ Das\ Array\ mit\ den\ Bilddaten;\ wenn\ keine\ Datei\ gew\u00E4hlt,\ null.\n
+comment2.params=dateiname
+comment2.target=short[][]\ liesBilddaten(java.lang.String)
+comment2.text=\n\ Liest\ eine\ Bild-Datei\ ein\ und\ liefert\ die\ Bilddaten\ als\ Pixelarray.\ Die\ Datei\n\ wird\ \u00FCber\ ihren\ Namen\ im\ Klassen-Verzeichnis\ gesucht.\n\ \n\ @param\ dateiname\ Der\ Name\ der\ Bilddatei\n\ @return\ Das\ Array\ mit\ den\ Bilddaten,\ wenn\ keine\ Datei\ gefunden,\ null.\n
+comment3.params=bild
+comment3.target=short[][]\ byteArrayAusImage(javafx.scene.image.Image)
+comment3.text=\n\ Macht\ aus\ einem\ Image\ das\ Pixel-Array\ und\ konvertiert\ dabei\ auf\ SW\n\ \n\ @param\ bild\ das\ Image\n\ @return\ das\ zweidimensionale\ Pixe-Array\n
+comment4.params=datei
+comment4.target=javafx.scene.image.Image\ imageAusDatei(java.lang.String)
+comment4.text=\n\ Macht\ aus\ eine,\ Dateipfad\ ein\ Image\n\ \n\ @param\ datei\ der\ Dateipfad\n\ @return\ das\ Image\n
+numComments=5

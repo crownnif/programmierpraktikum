@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SpielfeldZeileEnum
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ SpielfeldZeileEnum.\n\ \n\ @author\ Finn,\ Daniil\n\ @version\ 15.12.2021\n
+comment1.params=
+comment1.target=SpielfeldZeileEnum()
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ SpielfeldZeileEnum\n
+comment2.params=spalte
+comment2.target=Besitzer\ gibBesitzer(int)
+comment2.text=\n\ Gibt\ den\ Besitzer\ der\ angegebenen\ Spalte\ in\ dieser\ Zeile.\n\ \n\ @param\ spalte\n\ \ \ \ \ \ \ \ \ \ \ \ horizontale\ Position\ (0-2)\n\ @return\ 0\ (unbesetzt),\ 1\ (Spieler\ 1),\ 2\ (Spieler\ 2)\n
+comment3.params=spalte\ spieler
+comment3.target=void\ besetze(int,\ Besitzer)
+comment3.text=\n\ Besetze\ die\ angegebene\ Spalte\ in\ dieser\ Zeile.\n\ \n\ @param\ spalte\n\ \ \ \ \ \ \ \ \ \ \ \ horizontale\ Position\ (0-2)\n\ @param\ spieler\n\ \ \ \ \ \ \ \ \ \ \ \ 0\ (leer),\ 1\ (Spieler\ 1),\ 2\ (Spieler\ 2)\n
+comment4.params=
+comment4.target=boolean\ istVoll()
+comment4.text=\n\ Gibt\ an,\ ob\ die\ Zeile\ an\ allen\ Positionen\ belegt\ ist.\n
+numComments=5

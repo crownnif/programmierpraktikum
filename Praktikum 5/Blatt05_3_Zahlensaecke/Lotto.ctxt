@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Lotto
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Lotto.\n\ \n\ @author\ Finn\ Kronj\u00E4ger\n\ @version\ 14.12.2021\n
+comment1.params=
+comment1.target=void\ sechsAus49()
+comment1.text=\n\ Schreibt\ sechs\ zuf\u00E4llige\ Zahlen\ zwischen\ 1\ und\ 49\ in\ die\ Konsole\n
+numComments=2

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=UhrenanzeigeTest
+comment0.text=\n\ Die\ Testklasse\ UhrenanzeigeTest.\ hier\ werden\ Testfaelle\ beschrieben,\ die\n\ die\ Klasse\ Uhrenanzeige\ durchlaufen\ muss.\n\ \n\ Nach\ dem\ ersten\ Laden\ des\ Projekts\ laufen\ diese\ Testfaelle\ nicht\ fehlerfrei\ durch,\n\ da\ sich\ ein\ Fehler\ in\ der\ zu\ testenden\ Klasse\ Uhrenanzeige\ befindet.\ Nachdem\n\ ihr\ diesen\ Test\ gestartet\ habt\ und\ die\ Fehlermeldung\ nachvollzogen\ habt,\n\ behebt\ den\ Fehler\ und\ startet\ die\ Tests\ erneut.\n\ \n\ @author\ Christian\ Spaeh,\ Axel\ Schmolitzky\n\ @version\ 2018\n
+comment1.params=
+comment1.target=UhrenanzeigeTest()
+comment1.text=\n\ Konstruktor\:\ Initialisierungen\ fuer\ jeden\ Testfall\n
+comment2.params=
+comment2.target=void\ testGibSetzeUhrzeit()
+comment2.text=\n\ Testet\ die\ Methoden\ setzeUhrzeit()\ und\ gibUhrzeit().\n
+comment3.params=
+comment3.target=void\ testTaktSignalGeben()
+comment3.text=\n\ Testet\ die\ Methode\ taktSignalGeben().\n
+numComments=4

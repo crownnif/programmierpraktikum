@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SpielfeldZeile
+comment0.text=\r\n\ Modelliert\ eine\ Zeile\ eines\ Tic-Tac-Toe-Spielfelds,\ welche\ aus\ drei\ Spaltenpositionen\r\n\ besteht.\ Die\ Spaltenpositionen\ koennen\ von\ den\ Spielern\ besetzt\ werden.\r\n\ \r\n\ @author\ Fredrik\ Winkler,\ Christian\ M.\ Spaeh,\ Axel\ Schmolitzky\r\n\ @version\ 2021\r\n
+comment1.params=
+comment1.target=SpielfeldZeile()
+comment1.text=\r\n\ Initialisiert\ eine\ neue\ SpielfeldZeile\r\n
+comment2.params=spalte
+comment2.target=int\ gibBesitzer(int)
+comment2.text=\r\n\ Gibt\ den\ Besitzer\ der\ angegebenen\ Spalte\ in\ dieser\ Zeile.\r\n\ \r\n\ @param\ spalte\r\n\ \ \ \ \ \ \ \ \ \ \ \ horizontale\ Position\ (0-2)\r\n\ @return\ 0\ (unbesetzt),\ 1\ (Spieler\ 1),\ 2\ (Spieler\ 2)\r\n
+comment3.params=spalte\ spieler
+comment3.target=void\ besetze(int,\ int)
+comment3.text=\r\n\ Besetze\ die\ angegebene\ Spalte\ in\ dieser\ Zeile.\r\n\ \r\n\ @param\ spalte\r\n\ \ \ \ \ \ \ \ \ \ \ \ horizontale\ Position\ (0-2)\r\n\ @param\ spieler\r\n\ \ \ \ \ \ \ \ \ \ \ \ 0\ (leer),\ 1\ (Spieler\ 1),\ 2\ (Spieler\ 2)\r\n
+comment4.params=
+comment4.target=boolean\ istVoll()
+comment4.text=\r\n\ Gibt\ an,\ ob\ die\ Zeile\ an\ allen\ Positionen\ belegt\ ist.\r\n
+numComments=5

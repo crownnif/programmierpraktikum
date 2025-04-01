@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Vergleicher
+comment0.text=\r\n\ Ein\ Vergleicher\ ist\ in\ der\ Lage,\ zwei\ Personen\ miteinander\ zu\ vergleichen.\r\n\ Welches\ Vergleichskriterium\ dabei\ verwendet\ wird,\ kann\ in\ jeder\ Klasse\ anders\r\n\ festgelegt\ werden.\r\n\ \r\n\ @author\ Fredrik\ Winkler,\ Axel\ Schmolitzky\r\n\ @version\ 2021\r\n
+comment1.params=a\ b
+comment1.target=int\ vergleiche(Person,\ Person)
+comment1.text=\r\n\ Vergleicht\ zwei\ Personen\ miteinander\ und\ gibt\ Auskunft\ darueber,\ in\ welcher\r\n\ Beziehung\ sie\ zueinander\ stehen.\r\n\ Wenn\ die\ beiden\ Personen\ (gemessem\ am\ Vergleichskriterium)\ gleich\ sind,\ dann\r\n\ wird\ 0\ geliefert.\r\n\ Wenn\ a\ in\ einer\ geordneten\ Liste\ vor\ b\ stehen\ wuerde,\ dann\ wird\ irgendeine\r\n\ negative\ Zahl\ geliefert.\r\n\ Ansonsten\ wird\ irgendeine\ positive\ Zahl\ geliefert.\r\n
+numComments=2

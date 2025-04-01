@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Geschlecht
+comment0.text=\r\n\ Ein\ Aufz\u00E4hlungstyp\ f\u00FCr\ das\ Geschlecht\ einer\ Person.\r\n\ \r\n\ @author\ \ Axel\ Schmolitzky\r\n\ @version\ 2021\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+numComments=2

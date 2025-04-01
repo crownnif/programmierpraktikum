@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ueberweisungsmanager
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Ueberweisungsmanager.\n\ \n\ @author\ (Ihr\ Name)\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=
+comment1.target=Ueberweisungsmanager()
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Ueberweisungsmanager\n
+comment2.params=quellKonto\ zielKonto\ betrag
+comment2.target=void\ ueberweisen(Konto,\ Konto,\ int)
+numComments=3

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Rennbahn
+comment0.text=\n\ Diese\ Klasse\ modelliert\ eine\ Rennbahn\ mit\ beliebiger\ L\u00E4nge,\n\ auf\ der\ Objekte\ der\ Klasse\ Rennauto\ fahren\ k\u00F6nnen.\n\ \n\ @author\ Tommy,\ Finn\ \n\ @version\ 11.2021\n
+comment1.params=streckenlaenge
+comment1.target=Rennbahn(int)
+comment1.text=\n\ Initialisiert\ die\ Streckenl\u00E4nge\ der\ Rennbahn.\n\ \n\ @param\ streckenlaenge\ \ \ \ Die\ Streckenl\u00E4nge\ in\ km.\n
+comment2.params=spur\ auto
+comment2.target=void\ setzeAufSpur(int,\ Rennauto)
+comment2.text=\n\ Die\ Methode\ setzt\ ein\ Auto\ auf\ eine\ bestimmte\ Spur.\n\ \n\ @param\ \ spur\ \ \ \ \ Die\ Nummer\ der\ Spur.\n\ @param\ \ auto\ \ \ \ \ Das\ Rennauto.\n
+comment3.params=spur
+comment3.target=void\ entferneVonSpur(int)
+comment3.text=\n\ Die\ Methode\ entfernt\ die\ Belegung\ einer\ Spur.\n\ \n\ @param\ spur\ \ Die\ Nummer\ der\ Spur.\n
+comment4.params=spur
+comment4.target=Rennauto\ gibAutoAufSpur(int)
+comment4.text=\n\ Die\ Methode\ gibt\ das\ Auto\ auf\ einer\ bestimmten\ Spur.\n\ \n\ @param\ spur\ \ Die\ Nummer\ der\ Spur.\n\ @return\ \ \ \ \ \ Das\ Auto\ auf\ der\ Spur.\ Gibt\ null,\ wenn\ Spur\ leer\ ist.\n
+comment5.params=
+comment5.target=Rennauto\ liefereSieger()
+comment5.text=\n\ Die\ Methode\ gibt\ den\ Sieger\ des\ Rennens.\n\ \n\ @return\ Das\ Siegerauto.\ Wenn\ es\ noch\ keinen\ Sieger\ gibt,\ null.\n
+comment6.params=zeitabschnitt
+comment6.target=void\ simuliereZeitabschnitt(int)
+comment6.text=\n\ Die\ Methode\ simuliert\ einen\ Zeitabschnitt\ vom\ Rennen.\n\ \n\ @param\ zeitabschnitt\ Der\ Zeitabschnitt\ in\ Sekunden.\n
+comment7.params=
+comment7.target=Rennauto\ rennenDurchfuehren()
+comment7.text=\n\ Die\ Methode\ f\u00FChrt\ das\ Rennen\ durch.\n\ \n\ @return\ Das\ Siegerauto.\n
+numComments=8

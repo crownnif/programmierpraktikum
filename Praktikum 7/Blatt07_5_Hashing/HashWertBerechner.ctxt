@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HashWertBerechner
+comment0.text=\n\ Dieses\ Interface\ definiert\ die\ Schnittstelle\ von\ Objekten,\ die\ \n\ einen\ Hash-Wert\ f\u00FCr\ ein\ gegebenes\ Wort\ (einen\ String)\ liefern.\n\ Diese\ Werte\ k\u00F6nnen\ als\ Basis\ f\u00FCr\ Hash-Funktionen\ dienen.\n\ \n\ Verschiedene\ Implementationen\ dieses\ Interfaces\ k\u00F6nnen\ Hash-Werte\n\ unterschiedlicher\ G\u00FCte\ realisieren.\n\ \n\ @author\ Fredrik\ Winkler,\ Petra\ Becker-Pechau,\ Axel\ Schmolitzky\n\ @version\ 2021\n
+comment1.params=wort
+comment1.target=int\ hashWert(java.lang.String)
+comment1.text=\n\ Bilde\ das\ gegebene\ Wort\ auf\ einen\ ganzzahligen\ Wert\ ab.\n
+comment2.params=
+comment2.target=java.lang.String\ gibBeschreibung()
+comment2.text=\n\ Liefere\ eine\ Beschreibung\ f\u00FCr\ die\ Art\ der\ Berechnung.\n
+numComments=3

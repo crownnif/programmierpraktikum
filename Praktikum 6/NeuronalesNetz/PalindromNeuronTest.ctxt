@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PalindromNeuronTest
+comment0.text=\n\ Die\ Test-Klasse\ PalindromNeuronTest.\n\n\ @author\ \ Finn\ K\n\ @version\ 2022\n
+comment1.params=
+comment1.target=PalindromNeuronTest()
+comment1.text=\n\ Konstruktor\ fuer\ die\ Test-Klasse\ SignalTest\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ \ Setzt\ das\ Testger\u00FCst\ fuer\ den\ Test.\n\n\ Wird\ vor\ jeder\ Testfall-Methode\ aufgerufen.\n
+comment3.params=
+comment3.target=void\ testeMitCaps()
+comment3.text=\n\ \ Testet,\ dass\ Caps\ ber\u00FCcksichtigt\ werden.\n
+comment4.params=
+comment4.target=void\ testeNull()
+comment4.text=\n\ \ Testet,\ dass\ bei\ keinem\ Palindrom\ null\ \n
+comment5.params=
+comment5.target=void\ testeMitIgnoriereCaps()
+comment5.text=\n\ \ Testet,\ dass\ Caps\ nicht\ ber\u00FCcksichtigt\ werden.\n
+comment6.params=
+comment6.target=void\ tearDown()
+comment6.text=\n\ Gibt\ das\ Testger\u00FCst\ wieder\ frei.\n\n\ Wird\ nach\ jeder\ Testfall-Methode\ aufgerufen.\n
+numComments=7

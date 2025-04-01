@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Kartenbild
+comment0.text=\r\n\ Die\ m\u00F6glichen\ Kartenbilder\ eines\ Kartenspiels\ als\ Aufz\u00E4hlung.\r\n\ Ein\ Kartenbild\ setzt\ sich\ zusammen\ aus\ einer\ Kartenfarbe\ und\ einem\r\n\ Kartenrang.<br>\r\n\ Da\ es\ im\ Unicode-Zeichensatz\ auch\ Zeichen\ f\u00FCr\ Kartenbilder\ gibt,\r\n\ kennt\ jedes\ Kartenbild\ zus\u00E4tzlich\ seinen\ passenden\ Codepunkt.<br><br>\r\n\ Beispiel\:\ Das\ Pik-As\ (engl.\:\ Ace\ of\ Spades)\ hat\ den\ (hexadezimal\r\n\ dargestellten)\ Codepunkt\ 1f0a1.<br><br>\r\n\ Dieses\ Zeichen\ kann\ auch\ direkt\ hier\ in\ HTML\ dargestellt\ werden\:\ &\#x1f0a1;,\r\n\ etwas\ vergr\u00F6\u00DFert\:\ <font\ size\="+7">&\#x1f0a1;</font>\r\n\ \r\n\ @author\ Axel\ Schmolitzky\ \r\n\ @version\ 2021\r\n
+comment1.params=farbe\ rang\ codepoint
+comment1.target=Kartenbild(Kartenfarbe,\ Kartenrang,\ int)
+comment2.params=
+comment2.target=Kartenfarbe\ farbe()
+comment3.params=
+comment3.target=Kartenrang\ rang()
+comment4.params=
+comment4.target=int\ codepoint()
+comment4.text=\r\n\ Liefert\ den\ Codepoint\ des\ passenden\ Zeichens\ im\ Unicode-Zeichensatz.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

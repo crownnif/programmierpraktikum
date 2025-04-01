@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Skatspiel
+comment0.text=\r\n\ Ein\ Skatspiel\ besteht\ aus\ 32\ Spielkarten\ mit\ den\ R\u00E4ngen\r\n\ SIEBEN\ bis\ AS.\ In\ einem\ Skatspiel\ kommt\ jedes\ Kartenbild\r\n\ nur\ genau\ einmal\ vor.\r\n\ \r\n\ @author\ Axel\ Schmolitzky\ \r\n\ @version\ 2021\r\n
+comment1.params=
+comment1.target=Skatspiel()
+comment1.text=\r\n\ Initialisiert\ ein\ Skatspiel\ mit\ 32\ neuen\ Spielkarten.\r\n
+comment2.params=
+comment2.target=java.util.Iterator\ iterator()
+numComments=3

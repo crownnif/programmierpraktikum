@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Zahlensack
+comment0.text=\r\n\ Ein\ Zahlensack\ ist\ ein\ Datentyp,\ welcher\ eine\ gewisse\ Anzahl\ an\r\n\ unterschiedlichen\ (\!),\ zuf\u00E4lligen\ Zahlen\ liefert.\ Die\ Zahlen\ liegen\ \r\n\ dabei\ immer\ zwischen\ 0\ und\ Gr\u00F6\u00DFe\ -\ 1,\ d.h.\ ein\ Zahlensack\ der\ Gr\u00F6\u00DFe\ 10\ \r\n\ liefert\ Zufallszahlen\ aus\ der\ Menge\ {0,\ 1,\ 2,\ 3,\ 4,\ 5,\ 6,\ 7,\ 8,\ 9}.\r\n\ \r\n\ Vorstellbar\ ist\ z.B.\ ein\ Zahlensack\ der\ Gr\u00F6\u00DFe\ 32,\ welcher\ immer\r\n\ wieder\ neue\ Skatbl\u00E4tter\ generiert.\ Denn\:\ die\ ersten\ 32\ gezogenen\ Zahlen\r\n\ sind\ garantiert\ unterschiedlich,\ die\ n\u00E4chsten\ 32\ ebenfalls\ usw.\r\n\ \r\n\ Ein\ frisch\ generierter\ Zahlensack\ ist\ immer\ leer;\ der\ erste\ Aufruf\ von\ \r\n\ entferneZahl\ bewirkt\ dann,\ dass\ der\ Zahlensack\ vorab\ automatisch\ bef\u00FCllt\ wird,\r\n\ siehe\ die\ Beschreibung\ von\ entferneZahl.\r\n\ \r\n\ Der\ kleinste\ zul\u00E4ssige\ Wert\ f\u00FCr\ die\ Gr\u00F6\u00DFe\ eines\ Zahlensackes\ ist\ 2.\r\n\ Bei\ Angabe\ einer\ kleineren\ Gr\u00F6\u00DFe\ soll\ eine\ IllegalArgumentException\ geworfen\ werden.\r\n\ \r\n\ @author\ Fredrik\ Winkler,\ Axel\ Schmolitzky\r\n\ @version\ 2021\r\n
+comment1.params=
+comment1.target=int\ gibGroesse()
+comment1.text=\r\n\ @return\ die\ Gr\u00F6\u00DFe\ des\ Zahlensacks;\ liefert\ minimal\ 2.\r\n
+comment2.params=
+comment2.target=int\ gibAnzahl()
+comment2.text=\r\n\ @return\ die\ Anzahl\ der\ Zahlen,\ die\ sich\ momentan\ im\ Zahlensack\ befinden\r\n
+comment3.params=
+comment3.target=boolean\ istLeer()
+comment3.text=\r\n\ @return\ true,\ falls\ der\ Zahlensack\ leer\ ist\r\n
+comment4.params=
+comment4.target=int\ entferneZahl()
+comment4.text=\r\n\ Entfernt\ eine\ Zahl\ aus\ dem\ Zahlensack\ und\ liefert\ sie\ zur\u00FCck.\r\n\ Danach\ ist\ der\ Zahlensack\ um\ ein\ Element\ kleiner.\r\n\ Ausnahme\:\ Falls\ der\ Zahlensack\ vor\ dem\ Aufruf\ leer\ ist,\r\n\ wird\ er\ zuerst\ gef\u00FCllt,\ und\ nach\ dem\ Aufruf\ ist\ gibAnzahl()\ \=\=\ gibGroesse()-1.\r\n\ \r\n\ @return\ eine\ zuf\u00E4llige\ Zahl\ im\ Intervall\ [0,\ gibGroesse()-1]\r\n
+comment5.params=
+comment5.target=void\ leereSack()
+comment5.text=\r\n\ Verwirft\ alle\ \u00FCbrig\ gebliebenen\ Zahlen\ aus\ dem\ Zahlensack.\r\n\ istLeer()\ liefert\ anschlie\u00DFend\ true\ zur\u00FCck,\ und\ gibAnzahl()\ liefert\ 0.\r\n
+numComments=6

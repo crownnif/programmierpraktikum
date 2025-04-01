@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Eine\ Person\ hat\ einen\ Vornamen,\ einen\ Nachnamen,\ ein\ Geburtsjahr\ und\ ein\ Geschlecht.\r\n\ \r\n\ @author\ Fredrik\ Winkler,\ Axel\ Schmolitzky\r\n\ @version\ 2021\r\n
+comment1.params=vorname\ nachname\ geburtsjahr\ geschlecht
+comment1.target=Person(java.lang.String,\ java.lang.String,\ int,\ Geschlecht)
+comment1.text=\r\n\ Initialisiert\ ein\ Person-Objekt\ mit\ den\ angegeben\ Daten.\r\n\ @param\ vorname\ Der\ Vorname\ der\ Person;\ darf\ nicht\ null\ sein.\r\n\ @param\ nachname\ Der\ Nachname\ der\ Person;\ darf\ nicht\ null\ sein.\r\n\ @param\ geburtsjahr\ Das\ Geburtsjahr\ der\ Person.\r\n\ @param\ maennlich\ true,\ wenn\ die\ Person\ maennlich\ sein\ soll,\ false\ sonst.\r\n
+comment2.params=
+comment2.target=java.lang.String\ gibVorname()
+comment2.text=\r\n\ Liefert\ den\ Vornamen\ dieser\ Person.\r\n
+comment3.params=
+comment3.target=java.lang.String\ gibNachname()
+comment3.text=\r\n\ Liefert\ den\ Nachnamen\ dieser\ Person.\r\n
+comment4.params=
+comment4.target=int\ gibGeburtsjahr()
+comment4.text=\r\n\ Liefert\ das\ Geburtsjahr\ dieser\ Person.\r\n
+comment5.params=
+comment5.target=Geschlecht\ gibGeschlecht()
+comment5.text=\r\n\ Liefert\ das\ Geschlecht\ dieser\ Person.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Liefert\ eine\ String-Darstellung\ im\ Format\r\n\ Mustermann,\ Max\ (1987,\ maennlich)\r\n
+numComments=7

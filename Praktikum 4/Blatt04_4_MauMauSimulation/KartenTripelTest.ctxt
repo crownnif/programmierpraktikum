@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=KartenTripelTest
+comment0.text=\n\ Die\ Test-Klasse\ KartenTripelTest.\n\n\ @author\ \ (Ihr\ Name)\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=
+comment1.target=KartenTripelTest()
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ \ Setzt\ das\ Testger\u00FCst\ fuer\ den\ Test.\n\n\ Wird\ vor\ jeder\ Testfall-Methode\ aufgerufen.\n
+comment3.params=
+comment3.target=void\ testKeineGleichenKarten()
+comment3.text=\n\ Testet,\ dass\ das\ Tripel\ keine\ gleichen\ Karten\ enthalten\ kann.\n
+comment4.params=
+comment4.target=void\ testTripelAnlegen()
+comment4.text=\n\ Testet,\ dass\ das\ Tripel\ korrekt\ angelegt\ wird.\n
+comment5.params=
+comment5.target=void\ tearDown()
+comment5.text=\n\ Gibt\ das\ Testger\u00FCst\ wieder\ frei.\n\n\ Wird\ nach\ jeder\ Testfall-Methode\ aufgerufen.\n
+numComments=6

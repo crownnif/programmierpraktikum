@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Zeichner
+comment0.text=\r\n\ Exemplare\ dieser\ Klasse\ zeichnen\ eine\ einfache\ Zeichnung.\r\n\ Um\ die\ Zeichnung\ auf\ dem\ Bildschirm\ anzuzeigen,\ muss\ die\r\n\ Methode\ zeichne\ an\ einem\ Exemplar\ aufgerufen\ werden.\r\n\r\n\ Diese\ Klasse\ ist\ als\ fruehes\ Java-Lehrbeispiel\ mit\ BlueJ\ gedacht.\r\n\ \r\n\ @author\ \ Axel\ Schmolitzky\r\n
+comment1.params=
+comment1.target=void\ zeichne()
+comment1.text=\r\n\ Zeichne\ die\ Zeichnung.\r\n
+numComments=2

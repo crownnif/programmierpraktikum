@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Spieler
+comment0.text=\r\n\ Ein\ Spieler\ in\ einer\ Mau-Mau-Runde.\ Ein\ Mau-Mau-Spieler\ hat\ \r\n\ einen\ Namen\ und\ kann\ Karten\ aufnehmen\ und\ wieder\ ablegen.\ <br>\r\n\ Die\ Karten\ des\ Spielers\ werden\ in\ einer\ Kartenansicht\ angezeigt.\r\n\ \r\n\ @author\ Axel\ Schmolitzky\r\n\ @version\ 2021\r\n
+comment1.params=name
+comment1.target=Spieler(java.lang.String)
+comment1.text=\r\n\ Initialisierung\ eines\ Spielers\:\ Anfangs\ hat\r\n\ er\ keine\ Karte.\r\n\ @param\ name\ der\ Name\ des\ Spielers\r\n
+comment2.params=k
+comment2.target=void\ nimmKarte(spielkarten.Spielkarte)
+comment2.text=\r\n\ Nimm\ eine\ Karte\ auf\ die\ Hand.\r\n\ @param\ k\ die\ aufzunehmende\ Karte.\r\n
+comment3.params=karte
+comment3.target=spielkarten.Spielkarte\ bediene(spielkarten.Spielkarte)
+comment3.text=\r\n\ Bediene\ die\ Karte,\ falls\ moeglich.\ Falls\ nicht\ m\u00F6glich,\ mache\ nix.\r\n\ @param\ karte\ die\ oberste\ Karte\ auf\ dem\ Spielstapel\r\n\ @return\ die\ bedienende\ Karte,\ falls\ bedient\ werden\ kann,\ \r\n\ sonst\ die\ alte\ oberste\ Karte.\r\n
+comment4.params=karte
+comment4.target=spielkarten.Spielkarte\ passendZu(spielkarten.Spielkarte)
+comment5.params=
+comment5.target=int\ anzahlKarten()
+comment6.params=
+comment6.target=void\ gibAlleKartenAb()
+comment6.text=\r\n\ Dieser\ Spieler\ soll\ alle\ Karten\ auf\ der\ Hand\ abgeben.\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=void\ zeigeHand()
+numComments=9

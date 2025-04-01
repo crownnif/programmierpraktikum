@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Waage
+comment0.text=\r\n\ Die\ Klasse\ Waage\ registiert\ neue\ Gewichte,\ gibt\ Trends\ zur\u00FCck,\ berechnet\ das\ Durchschnittsgewicht\r\n\ und\ noch\ viel\ mehr\!\r\n\ \r\n\ @author\ Finn\ Kronj\u00E4ger,\ Tom\ Hert\r\n\ @version\ v0.0.1\r\n
+comment1.params=koerpergewicht
+comment1.target=Waage(int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Waage\r\n\ \r\n\ @param\ koerpergewicht\r\n\ \ \ \ \ \ K\u00F6rpergewicht\ in\ Kilogram\r\n
+comment2.params=neuesGewicht
+comment2.target=void\ registriere(int)
+comment2.text=\r\n\ Registiere\ ein\ neues\ Gewicht\ auf\ der\ Waage.\r\n\ \r\n\ @param\ neuesGewicht\ Das\ neue\ Gewicht,\ was\ registiert\ werden\ soll.\r\n
+comment3.params=
+comment3.target=int\ gibTrend()
+comment3.text=\r\n\ Gibt\ den\ Trend\ zur\u00FCck\ als\ Int\r\n\ \r\n\ @return\ int\ -1\ ->\ abnehmen,\ 1\ ->\ zunehmend,\ 0\ ->\ gleich\r\n
+comment4.params=
+comment4.target=int\ gibMinimalgewicht()
+comment4.text=\r\n\ Gibt\ das\ Minimalgewicht\ zur\u00FCck.\r\n\ \r\n\ @return\ int\ Minimalgewicht\r\n
+comment5.params=
+comment5.target=int\ gibMaximalgewicht()
+comment5.text=\r\n\ Gibt\ das\ Maximalgewicht\ zur\u00FCck.\r\n\ \r\n\ @return\ int\ Maximalgewicht\r\n
+comment6.params=
+comment6.target=int\ gibDurchschnittsgewicht()
+comment6.text=\r\n\ Gibt\ das\ Durchschnittsgewicht\ zur\u00FCck.\r\n\ \r\n\ @return\ int\ Durchschnittsgewicht\r\n
+numComments=7

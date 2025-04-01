@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Kartenansicht
+comment0.text=\r\n\ Eine\ Kartenansicht\ liefert\ eine\ grafische\ Darstellung\ von\ einer\ \r\n\ gegebenen\ Menge\ an\ Spielkarten.\r\n\ \r\n\ @author\ Axel\ Schmolitzky\r\n\ @version\ 2021\r\n
+comment1.params=titel
+comment1.target=Kartenansicht(java.lang.String)
+comment1.text=\r\n\ Initialisiert\ eine\ neue\ leere\ Kartenansicht\ mit\ einem\ Titel.\r\n\ @param\ titel\ der\ Titel\ des\ Fensters\r\n
+comment2.params=titel
+comment2.target=void\ init(java.lang.String)
+comment3.params=karte
+comment3.target=void\ zeige(spielkarten.Spielkarte)
+comment3.text=\r\n\ Zeigt\ eine\ einzelne\ Spielkarte\ an.\r\n\ @param\ karte\ die\ anzuzeigende\ Spielkarte\r\n
+comment4.params=kartenliste
+comment4.target=void\ zeige(java.util.List)
+comment4.text=\r\n\ Zeigt\ alle\ Karten\ aus\ einer\ Liste\ von\ Karten\ an.\r\n\ @param\ kartenliste\ eine\ Liste\ mit\ Spielkarten\r\n
+comment5.params=stapel
+comment5.target=void\ zeige(Kartenstapel)
+comment5.text=\r\n\ Zieht\ alle\ Karten\ von\ einem\ Kartenstapel\ und\ zeigt\ diese\ an.\r\n\ @param\ stapel\ der\ Kartenstapel\ mit\ den\ anzuzeigenden\ Spielkarten\r\n
+comment6.params=karte
+comment6.target=javafx.scene.text.Text\ macheTextAusKarte(spielkarten.Kartenbild)
+comment7.params=codepoint
+comment7.target=java.lang.String\ gibStringVonCodepoint(int)
+numComments=8

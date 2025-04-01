@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Spielkarte
+comment0.text=\r\n\ Exemplare\ dieser\ Klasse\ modellieren\ physische\ Spielkarten.\r\n\ Eine\ Spielkarte\ ist\ immer\ mit\ einem\ Kartenbild\ "bedruckt".\r\n\ Auf\ diese\ Weise\ kann\ es\ mehrere\ Karten\ mit\ dem\ gleichen\r\n\ Kartenbild\ geben.\r\n\ \r\n\ @author\ Axel\ Schmolitzky\ \r\n\ @version\ 2021\r\n
+comment1.params=bild
+comment1.target=Spielkarte(Kartenbild)
+comment1.text=\r\n\ Eine\ Spielkarte\ wird\ mit\ einem\ Kartenbild\ "bedruckt".\r\n
+comment2.params=
+comment2.target=Kartenfarbe\ farbe()
+comment2.text=\r\n\ Liefert\ die\ Farbe\ dieser\ Spielkarte.\r\n
+comment3.params=
+comment3.target=Kartenrang\ rang()
+comment3.text=\r\n\ Liefert\ den\ Rang\ dieser\ Spielkarte.\r\n
+comment4.params=
+comment4.target=Kartenbild\ bild()
+comment4.text=\r\n\ Liefert\ das\ Kartenbild\ dieser\ Spielkarte.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PerGeschlecht
+comment0.text=\n\ Vergleicht\ zwei\ Personen\ anhand\ ihres\ Alters.\n\ \n\ @author\ Fredrik\ Winkler\n\ @version\ 2021\n
+comment1.params=a\ b
+comment1.target=int\ vergleiche(Person,\ Person)
+comment1.text=\n\ @see\ Vergleicher.vergleiche\n
+comment2.params=geschlecht
+comment2.target=int\ gibGeschlechtRang(Geschlecht)
+numComments=3

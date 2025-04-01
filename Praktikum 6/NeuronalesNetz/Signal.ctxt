@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Signal
+comment0.text=\n\ Ein\ SignalNeuron\ hat\ keinen\ Eingang,\ nur\ einen\ festgelegten\ Ausgang.\n\ \n\ @author\ Finn\ K.\n\ @version\ 2022\n
+comment1.params=s
+comment1.target=Signal(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getAusgangswert()
+numComments=3

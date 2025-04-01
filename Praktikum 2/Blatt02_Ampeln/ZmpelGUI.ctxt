@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ZmpelGUI
+comment0.text=\r\n\ Stellt\ eine\ Zmpel\ grafisch\ dar\ und\ ermoeglicht\ das\ Weiterschalten\ \r\n\ zur\ naechsten\ Ampelphase\ per\ Knopfdruck.\r\n\ \ \r\n\ @author\ Axel\ Schmolitzky,\ Fredrik\ Winkler\r\n\ @version\ 2021\r\n
+comment1.params=
+comment1.target=ZmpelGUI()
+comment1.text=\r\n\ Erzeugt\ eine\ neue\ Zmpel\ und\ stellt\ diese\ anschliessend\ dar.\r\n
+comment2.params=stage
+comment2.target=javafx.scene.layout.TilePane\ initialisiere(javafx.stage.Stage)
+comment2.text=\r\n\ Initialisiert\ die\ Stage\ und\ liefert\ den\ TilePane,\ der\ die\r\n\ weiteren\ Nodes\ aufnimmt.\r\n
+comment3.params=root
+comment3.target=void\ initialisiereLampen(javafx.scene.layout.TilePane)
+comment3.text=\r\n\ Erzeugt\ fuer\ jede\ Lampe\ einen\ Button.\r\n
+comment4.params=reihe
+comment4.target=javafx.scene.control.Button\ neueLampe(int)
+comment4.text=\r\n\ Erzeugt\ einen\ LampenButton.\r\n
+comment5.params=root
+comment5.target=void\ initialisiereWeiter(javafx.scene.layout.TilePane)
+comment5.text=\r\n\ Erzeugt\ den\ Weiter-Button\ und\ fuegt\ einen\ EventHandler\ hinzu,\r\n\ der\ die\ Ampel\ weiterschaltet,\ wenn\ der\ Button\ gedrueckt\ wird.\r\n
+comment6.params=
+comment6.target=void\ aktualisiereLampen()
+comment6.text=\r\n\ Setzt\ die\ Farben\ der\ Lampen-Buttons\ entsprechend\ der\ Phase\ der\ verwendeten\ Ampel.\r\n
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Umgekehrt
+comment0.text=\n\ Vergleicht\ zwei\ Personen\ anhand\ eines\ prim\u00E4ren\ Vergleichers.\n\ Wenn\ die\ beiden\ Personen\ laut\ diesem\ prim\u00E4ren\ Vergleicher\ gleich\ sind,\n\ dann\ werden\ die\ Personen\ anhand\ eines\ sekund\u00E4ren\ Vergleichers\ verglichen.\n\ \n\ @author\ Fredrik\ Winkler\n\ @version\ 2021\n
+comment1.params=vergleicher
+comment1.target=Umgekehrt(Vergleicher)
+comment1.text=\n\ @param\ primaer\ der\ prim\u00E4re\ Vergleicher;\ darf\ nicht\ null\ sein\n\ @param\ sekundaer\ der\ sekund\u00E4re\ Vergleicher;\ darf\ nicht\ null\ sein\n
+comment2.params=a\ b
+comment2.target=int\ vergleiche(Person,\ Person)
+comment2.text=\n\ @see\ Vergleicher.vergleiche\n
+numComments=3

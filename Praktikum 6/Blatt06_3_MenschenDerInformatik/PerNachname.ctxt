@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PerNachname
+comment0.text=\r\n\ Vergleicht\ zwei\ Personen\ anhand\ ihres\ Nachnamens.\r\n
+comment1.params=a\ b
+comment1.target=int\ vergleiche(Person,\ Person)
+comment1.text=\r\n\ @see\ Vergleicher.vergleiche\r\n
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BadHash
+comment0.text=\n\ Gibt\ stets\ die\ gleiche\ Hash-Zahl\ aus\n\ \n\ @author\ Finn\ Kronj\u00E4ger\n\ @version\ 2022\n
+comment1.params=wort
+comment1.target=int\ hashWert(java.lang.String)
+comment1.text=\nBildet\ das\ gegebene\ Wort\ auf\ 666\ ab
+comment2.params=
+comment2.target=java.lang.String\ gibBeschreibung()
+comment2.text=\n\ Liefert\ eine\ Beschreibung\ fuer\ die\ Art\ der\ Berechnung.\n
+numComments=3
